@@ -75,9 +75,9 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Principal Investigators
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Zach Feiner (he/his) is a fisheries research scientist with the Wisconsin Department of Natural Resources and the University of Wisconsin-Madison Center for Limnology. His research focuses on inland freshwater ecosystems, including the impacts of climate change on freshwater fish and fisheries, angler behavior and the effects of fishing on ecological and evolutionary processes in fish populations, and the importance of changing phenology to the functioning of aquatic ecosystems.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Zach co-chairs the Wisconsin Initiative on Climate Change Impacts [(WICCI)](https://wicci.wisc.edu/fisheries-working-group/) Fisheries Working Group, tasked with identifying and developing adaptation strategies for climate risks to Wisconsin fisheries. He also serves on the [Midwest Glacial Lakes Partnership](https://midwestglaciallakes.org/) Science and Data Team, contributing to a regional network of scientists to better understand the relative importance of habitat, climate change, and other environmental factors on fish communities. Zach earned his BS from the University of Wisconsin-Madison, MS from North Carolina State University, and PhD from Purdue University. He worked as a fisheries scientist for the WDNR before transitioning to his current role, where he continues his research while supporting academic and state agency research collaborations.
