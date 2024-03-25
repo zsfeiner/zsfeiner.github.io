@@ -55,7 +55,7 @@ social:
     icon_pack: ai
     link: https://scholar.google.com/citations?user=MIVPyq0AAAAJ&hl=en&oi=sra
   - icon: orcid
-    icon_pack: brands
+    icon_pack: ai
     link: https://orcid.org/0000-0001-7880-0778
   - icon: github
     icon_pack: fab
