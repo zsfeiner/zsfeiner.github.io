@@ -75,7 +75,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Principal Investigators
+  - Researchers
 ---
 
 Zach Feiner (he/his) is a fisheries research scientist with the Wisconsin Department of Natural Resources and the University of Wisconsin-Madison Center for Limnology. His research focuses on inland freshwater ecosystems, including the impacts of climate change on freshwater fish and fisheries, angler behavior and the effects of fishing on ecological and evolutionary processes in fish populations, and the importance of changing phenology to the functioning of aquatic ecosystems.
