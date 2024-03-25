@@ -49,7 +49,7 @@ social:
     icon_pack: fas
     link: 'mailto:zsfeiner@wisc.edu'
   - icon: researchgate
-    icon_pack: academicons
+    icon_pack: ai
     link: https://www.researchgate.net/profile/Zachary-Feiner
   - icon: google-scholar
     icon_pack: ai
