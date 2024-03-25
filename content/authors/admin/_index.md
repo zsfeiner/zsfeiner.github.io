@@ -1,41 +1,44 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Zachary S Feiner
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Zachary S
+last_name: Feiner
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Research Scientist
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
-    url: ''
+  - name: Wisconsin Department of Natural Resources
+    url: 'https://dnr.wisconsin.gov/topic/research/fisheriesresearch'
+  - name: University of Wisconsin-Madison Center for Limnology
+    url: 'https://limnology.wisc.edu/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am broadly interested in the ecology and management of freshwater ecosystems, including the social-ecological dynamics of fisheries, human and fish responses to climate change, and how eco-evolutionary processes drive reslience to anthropogenic stressors.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Recreational fisheries management
+  - Climate change impacts
+  - Food web ecology
+  - Eco-evolutionary processes
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD, Forestry and Natural Resources
+      institution: Purdue University
+      year: 2015
+    - course: MS, Zoology
+      institution: North Carolina State University
+      year: 2011
+    - course: BS, Zoology & Biology
+      institution: University of Wisconsin-Madison
+      year: 2007
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -44,16 +47,19 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: 'mailto:zsfeiner@wisc.edu'
+  - icon: researchgate
+    icon_pack: academicons
+    link: https://www.researchgate.net/profile/Zachary-Feiner
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=MIVPyq0AAAAJ&hl=en&oi=sra
+  - icon: orcid
+    icon_pack: brands
+    link: https://orcid.org/0000-0001-7880-0778
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/zsfeiner
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
