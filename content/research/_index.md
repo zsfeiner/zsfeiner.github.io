@@ -1,6 +1,6 @@
 ---
-title: Tour
-date: 2022-10-24
+title: Research
+date: 2024-03-25
 
 type: landing
 
@@ -18,7 +18,7 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Lunch & Learn ☕️
+      - title: Climate change impacts
         content: 'Share your knowledge with the group and explore exciting new topics together!'
         align: left
         background:
