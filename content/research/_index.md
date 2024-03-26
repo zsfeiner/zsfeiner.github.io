@@ -17,7 +17,7 @@ sections:
 
   - block: collection
     content:
-      title: Research topics
+      title: Research Topics
       subtitle:
       text:
       count: 5
