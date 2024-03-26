@@ -20,7 +20,7 @@ organizations:
     url: 'https://limnology.wisc.edu/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am broadly interested in the ecology and management of freshwater ecosystems, including the social-ecological dynamics of fisheries, human and fish responses to climate change, and how eco-evolutionary processes drive reslience to anthropogenic stressors.
+bio: I am broadly interested in the ecology and management of freshwater ecosystems, including the social-ecological dynamics of fisheries, human and fish responses to climate change, and how eco-evolutionary processes drive resilience to anthropogenic stressors.
 
 interests:
   - Recreational fisheries management
