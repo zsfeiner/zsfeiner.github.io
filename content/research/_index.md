@@ -18,7 +18,10 @@ sections:
   - block: collection
     id: climate-change
     content:
-      folders: research
+      folders: 
+        - research
+    design:
+      view: showcase
       
 ---
 
