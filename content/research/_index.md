@@ -17,7 +17,7 @@ sections:
 
 
   - block: markdown
-    #id: climate_change
+    id: climate-change
     content:
       title: Climate change
       subtitle: 
@@ -28,18 +28,19 @@ sections:
       #background:
     image:
       filename: coders.jpg
+      caption: Test Test
       filters: 
         brightness: 1
       parallax: false
-      #float: right
-      size: contain
+      float: left
+      width: 200px
       text_color_light: true
       spacing:
          padding: ['20px', '0', '20px', '0']
 
         
   - block: markdown
-    #id: SES
+    id: SES
     content:
       title: Fisheries as social-ecological systems
       subtitle: 
@@ -60,7 +61,7 @@ sections:
        # css_class: fullscreen
         
   - block: markdown
-    #id: Lake_habitat
+    id: lake-habitat
     content:
       title: Recognizing lake habitats
       subtitle: 
@@ -79,4 +80,28 @@ sections:
         spacing:
           padding: ['20px', '0', '20px', '0']
        # css_class: fullscreen
+
+  - block: markdown
+    id: eco-evo
+    content:
+      title: Eco-evolutionary processes
+      subtitle: 
+      text: 
+    design:
+      columns: 1
+      background:
+        image:
+          filename: coders.jpg
+          filters: 
+            brightness: 1
+          parallax: false
+          float: right
+          size: contain
+          text_color_light: true
+        spacing:
+          padding: ['20px', '0', '20px', '0']
+       # css_class: fullscreen
+       
+
+          
 ---
