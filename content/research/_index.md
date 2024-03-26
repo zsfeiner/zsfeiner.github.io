@@ -17,7 +17,7 @@ sections:
 
   - block: collection
     id: research
-    count: 0
+    count: 6
     content:
       filters:
         folders: 
