@@ -60,7 +60,7 @@ sections:
       title:
       subtitle:
       text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+        {{% cta cta_link="./research/" cta_text="See what we do →" %}}
     design:
       columns: '1'
 ---
