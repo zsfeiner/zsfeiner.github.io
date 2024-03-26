@@ -15,9 +15,13 @@ sections:
         
         My research interests lie at the interface of basic and applied ecology.  I am broadly interested in how human interactions with freshwater ecosystems, including fishing, lake and fisheries management practices, and climate change, alter evolutionary and ecological processes in inland lakes, rivers, and the Great Lakes.  By understanding these responses, we can develop new approaches and practices for fisheries management in a rapidly changing landscape.
 
-  - block: markdown
+  - block: collection
     id: climate-change
     content:
+      folders: research
+      
+---
+
       title: Climate change
       subtitle: Climate change is rapidly transforming freshwater ecosystems. Warming waters are reducing available habitat for important cold- and coolwater species. Increasingly variable ice phenology on lakes alters the form and function of aquatic food webs.  Warmwater species and aquatic invasive species may experience increased habitat suitability under these changing conditions, portending significant changes to the fish communities present in many north-temperate lakes. <br>We have used a range of approaches to understand the effects of climate change in inland waters, including analysis of long-term historical data, over-winter experiments, and simulation modeling. Our work has shown that spring phenology is becoming increasingly unpredictable, with deleterious effects on spring spawning species like walleye.  Warmer winters may also reduce the reproductive capacity of coolwater fishes through influences on egg quality.  To grapple with these changes, I have begun work to expand on the RAD (Resist-Accept-Direct) framework to develop forward thinking approaches to managing projected changes to the fisheries landscape.
       text: 
@@ -96,4 +100,3 @@ sections:
           padding: ['20px', '0', '20px', '0']
        # css_class: fullscreen
 
----
