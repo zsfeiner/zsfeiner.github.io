@@ -16,7 +16,7 @@ sections:
         My research interests lie at the interface of basic and applied ecology.  I am broadly interested in how human interactions with freshwater ecosystems, including fishing, lake and fisheries management practices, and climate change, alter evolutionary and ecological processes in inland lakes, rivers, and the Great Lakes.  By understanding these responses, we can develop new approaches and practices for fisheries management in a rapidly changing landscape.
 
 
-  - block: collection
+  - block: markdown
     id: climate-change
     content:
       title: Climate change
@@ -28,8 +28,9 @@ sections:
       filters: 
         brightness: 1
       parallax: false
-      #float: left
-      #width: 200px
+      float: left
+      width: 2
+      height: 2
       text_color_light: true
       spacing:
          padding: ['20px', '0', '20px', '0']
