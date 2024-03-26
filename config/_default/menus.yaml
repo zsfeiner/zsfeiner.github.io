@@ -24,3 +24,23 @@ main:
     url: research/climate-change/
     weight: 10
     parent: research
+  - name: Eco-evo
+    url: research/eco-evo/
+    weight: 10
+    parent: research
+  - name: Habitat
+    url: research/habitat/
+    weight: 10
+    parent: research
+  - name: Social-ecological systems
+    url: research/SES/
+    weight: 10
+    parent: research
+  - name: Recruitment
+    url: research/recruitment/
+    weight: 10
+    parent: research
+  - name: Food webs
+    url: research/food-webs/
+    weight: 10
+    parent: research
