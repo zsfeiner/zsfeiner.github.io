@@ -31,7 +31,7 @@ sections:
             brightness: 1
           parallax: false
           float: right
-          size: cover
+          size: contain
           text_color_light: true
         spacing:
           padding: ['20px', '0', '20px', '0']
@@ -52,7 +52,7 @@ sections:
             brightness: 1
           parallax: false
           float: left
-          size: cover
+          size: contain
           text_color_light: true
         spacing:
           padding: ['20px', '0', '20px', '0']
@@ -73,7 +73,7 @@ sections:
             brightness: 1
           parallax: false
           float: right
-          size: cover
+          size: contain
           text_color_light: true
         spacing:
           padding: ['20px', '0', '20px', '0']
