@@ -18,12 +18,9 @@ sections:
   - block: collection
     id: climate-change
     content:
-      folders: 
-        - post
-        - people
-        - event
-        - publication
-        - contact
+      filters:
+        folders:
+        - research
     design:
       view: showcase
       
