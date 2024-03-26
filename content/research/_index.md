@@ -16,7 +16,6 @@ sections:
         My research interests lie at the interface of basic and applied ecology.  I am broadly interested in how human interactions with freshwater ecosystems, including fishing, lake and fisheries management practices, and climate change, alter evolutionary and ecological processes in inland lakes, rivers, and the Great Lakes.  By understanding these responses, we can develop new approaches and practices for fisheries management in a rapidly changing landscape.
 
 
-sections:
   - block: markdown
     content:
       - title: 👋 Welcome to the group
@@ -55,11 +54,12 @@ sections:
           text: Join Us
           url: ../contact/
     design:
+      columns: '1'
       # Slide height is automatic unless you force a specific height (e.g. '400px')
-      slide_height: ''
-      is_fullscreen: true
+      #slide_height: ''
+      #is_fullscreen: true
       # Automatically transition through slides?
-      loop: false
+      #loop: false
       # Duration of transition between slides (in ms)
-      interval: 2000
+      #interval: 2000
 ---
