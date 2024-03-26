@@ -1,5 +1,6 @@
 ---
-title: Climate change
+title: Climate change and phenology
+date: 2024-03-26
 ---
 
 Climate change is rapidly transforming freshwater ecosystems. We have used a range of approaches to understand the effects of climate change in inland waters, including analysis of long-term historical data, over-winter experiments, and simulation modeling.

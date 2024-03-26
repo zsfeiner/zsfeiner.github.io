@@ -1,5 +1,6 @@
 ---
 title: Eco-evolutionary dynamics
+date: 2024-03-26
 ---
 
 In a rapidly changing world, animals are constantly adapting. Human-induced selection gradients, like intense size-selective harvest, can alter the evolutionary trajectories of important fish life history traits, including growth or size- and age-at-maturation. We use experimental work, simulation modeling, and field studies to disentangle the relative effects of plasticity and evolution on these vital life history parameters.
