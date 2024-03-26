@@ -29,7 +29,7 @@ sections:
         tag: ''
       offset: 0
       order: desc
-      page_type: research_post
+      page_type: post
     design:
       view: showcase
       columns: '1'
