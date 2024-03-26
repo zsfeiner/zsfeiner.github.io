@@ -19,7 +19,11 @@ sections:
     id: climate-change
     content:
       folders: 
-        research
+        - post
+        - people
+        - event
+        - publication
+        - contact
     design:
       view: showcase
       
