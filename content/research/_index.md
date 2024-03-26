@@ -23,14 +23,15 @@ sections:
       subtitle: 
       text: We combine field research, experimental approaches, and quantitative modeling to understand how anthropogenic stressors influence freshwater fisheries, and develop new approaches to help important fisheries deal with a changing world. Climate change is rapidly transforming freshwater ecosystems. Warming waters are reducing available habitat for important cold- and coolwater species. Increasingly variable ice phenology on lakes alters the form and function of aquatic food webs.  Warmwater species and aquatic invasive species may experience increased habitat suitability under these changing conditions, portending significant changes to the fish communities present in many north-temperate lakes. <br>We have used a range of approaches to understand the effects of climate change in inland waters, including analysis of long-term historical data, over-winter experiments, and simulation modeling. Our work has shown that spring phenology is becoming increasingly unpredictable, with deleterious effects on spring spawning species like walleye.  Warmer winters may also reduce the reproductive capacity of coolwater fishes through influences on egg quality.  To grapple with these changes, I have begun work to expand on the RAD (Resist-Accept-Direct) framework to develop forward thinking approaches to managing projected changes to the fisheries landscape.
     design:
-      columns: 2
+      columns: 1
+      view: showcase
       #background:
     image:
       filename: coders.jpg
       filters: 
         brightness: 1
       parallax: false
-      float: right
+      #float: right
       size: contain
       text_color_light: true
       spacing:
