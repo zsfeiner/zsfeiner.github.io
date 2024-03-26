@@ -19,7 +19,7 @@ sections:
     id: climate-change
     content:
       folders: 
-        - research
+        research
     design:
       view: showcase
       
