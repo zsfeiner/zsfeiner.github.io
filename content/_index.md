@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        Freshwater fisheries ecology in a changing world
+        Freshwater ecology and fisheries management
       image:
         filename: welcome.jpg
       text: |
