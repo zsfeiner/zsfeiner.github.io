@@ -2,7 +2,7 @@
 title: Fisheries as social-ecological systems
 ---
 
-It's important to recognize that fish only represent half of the equation when trying to understand what makes a fishery tick.  Also understanding the anglers themselves, their attitudes, responses, and behaviors, is critical for developing effective policy and predicting how fisheries will respond to new challenges, like climate change.
+It is important to recognize that fish only represent half of the equation when trying to understand what makes a fishery tick.  Also understanding the anglers themselves, their attitudes, responses, and behaviors, is critical for developing effective policy and predicting how fisheries will respond to new challenges, like climate change.
 
 <!--more-->
 
