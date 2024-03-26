@@ -6,6 +6,7 @@
 # Appearance
 
 appearance:
+  color: sky
   theme_day: minimal
   theme_night:
   font: native

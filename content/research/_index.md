@@ -28,6 +28,9 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
+    
+    -block: markdown
+      content:
       - title: Climate change impacts
         content: 'Share your knowledge with the group and explore exciting new topics together!'
         align: left
@@ -38,6 +41,9 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
+          
+    -block: markdown
+      content:
       - title: World-Class Semiconductor Lab
         content: 'Just opened last month!'
         align: right
@@ -53,8 +59,8 @@ sections:
           icon_pack: fas
           text: Join Us
           url: ../contact/
-    design:
-      columns: '1'
+    #design:
+      #columns: '1'
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       #slide_height: ''
       #is_fullscreen: true
