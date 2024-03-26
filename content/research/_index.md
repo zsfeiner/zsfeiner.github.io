@@ -29,12 +29,12 @@ sections:
           filters: 
             brightness: 1
           parallax: false
-          position: center
+          position: right
           size: cover
           text_color_light: true
         spacing:
           padding: ['20px', '0', '20px', '0']
-        css_class: fullscreen
+        #css_class: fullscreen
         
   - block: markdown
     content:
@@ -49,12 +49,12 @@ sections:
           filters: 
             brightness: 1
           parallax: false
-          position: center
+          position: left
           size: cover
           text_color_light: true
         spacing:
           padding: ['20px', '0', '20px', '0']
-        css_class: fullscreen
+        #css_class: fullscreen
         
   - block: markdown
     content:
@@ -69,11 +69,11 @@ sections:
           filters: 
             brightness: 1
           parallax: false
-          position: center
+          position: right
           size: cover
           text_color_light: true
         spacing:
           padding: ['20px', '0', '20px', '0']
-        css_class: fullscreen
+        #css_class: fullscreen
 
 ---
