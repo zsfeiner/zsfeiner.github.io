@@ -1,9 +1,9 @@
 ---
-title: Introducing the Incredible HALK (Hierarchical Age Length Key)
+title: Introducing the Incredible HALK
 date: 2024-01-26
 ---
 
-Check out our [new paper](https://afspubs.onlinelibrary.wiley.com/doi/abs/10.1002/fsh.11019) in Fisheries introducing a hierarchical method for age assignment in fisheries assessments.
+Check out our [new paper](https://afspubs.onlinelibrary.wiley.com/doi/abs/10.1002/fsh.11019) in Fisheries introducing a hierarchical method for age assignment for fisheries data.
 
 <!--more-->
 
