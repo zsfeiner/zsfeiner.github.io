@@ -1,5 +1,6 @@
 ---
-title: Introducing the Incredible HALK (**H**ierarchical **A**ge **L**ength **K**ey)
+title: |
+Introducing the Incredible HALK (**H**ierarchical **A**ge **L**ength **K**ey)
 date: 2024-01-26
 ---
 
