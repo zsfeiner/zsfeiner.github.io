@@ -1,6 +1,5 @@
 ---
-title: |
-Introducing the Incredible HALK (Hierarchical Age Length Key)
+title: Introducing the Incredible HALK (Hierarchical Age Length Key)
 date: 2024-01-26
 ---
 
