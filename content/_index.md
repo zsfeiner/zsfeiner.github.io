@@ -10,7 +10,7 @@ sections:
       title: |
         Freshwater ecology and fisheries management
       image:
-        filename: welcome.jpg
+        filename: IceIndianLake.jpg
       text: |
         <br>
         
