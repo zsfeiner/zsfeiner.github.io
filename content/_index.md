@@ -10,7 +10,7 @@ sections:
       title: |
         Freshwater ecology and fisheries management
       image:
-        filename: IceFishingUpNorth.jpg
+        filename: welcome.jpg
       text: |
         <br>
         
@@ -44,7 +44,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: IceIndianLake.jpg
+          filename: coders.jpg
           filters:
             brightness: 1
           parallax: false
