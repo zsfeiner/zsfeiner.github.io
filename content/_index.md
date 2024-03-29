@@ -44,7 +44,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: IceFishingUpNorth.jpg
+          filename: coders.jpg
           filters:
             brightness: 1
           parallax: false
