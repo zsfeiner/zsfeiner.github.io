@@ -9,8 +9,19 @@ sections:
     content:
       title: |
         Freshwater ecology and fisheries management
-      image:
-        filename: IceIndianLake.jpg
+      design:
+      columns: '1'
+      background:
+        image: 
+          filename: Spring-Surveys-May2023-5054198.jpg
+          filters:
+            brightness: 1
+          parallax: false
+          position: center
+          size: cover
+          text_color_light: true
+      # image:
+      #  filename: IceIndianLake.jpg
       text: |
         <br>
         
