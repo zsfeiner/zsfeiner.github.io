@@ -5,6 +5,27 @@ type: landing
 
 sections:
 
+  - block: markdown
+    content:
+      title:
+      subtitle: ''
+      text:
+    design:
+      columns: '1'
+      background:
+        image: 
+          filename: SalineSeine.JPG
+          width: 2000px
+          filters:
+            brightness: 1
+          parallax: false
+          position: center
+          size: cover
+          text_color_light: true
+      spacing:
+        padding: ['20px', '0', '20px', '0']
+      css_class: fullscreen
+
   - block: collection
     id: research
     count: 0
@@ -17,9 +38,4 @@ sections:
     design:
       view: showcase
 
-# Optional banner image (relative to `assets/media/` folder).
-banner:
-  caption: ''
-  image: SalineSeine.JPG
-      
 ---
