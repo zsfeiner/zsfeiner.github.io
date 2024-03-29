@@ -48,7 +48,6 @@ sections:
         image: 
           filename: IceFishingUpNorth.jpg
           width: 2000px
-          height: 1333px
           filters:
             brightness: 1
           parallax: false
