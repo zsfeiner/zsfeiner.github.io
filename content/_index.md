@@ -9,9 +9,11 @@ sections:
     content:
       title: |
         Freshwater ecology and fisheries management
-      image:
-        filename: WalleyeInFyke.jpg
-        width: 570px
+      design:
+        background:
+          image:
+            filename: WalleyeInFyke.jpg
+            width: 2000px
       text: |
         <br>
         
