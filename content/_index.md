@@ -10,7 +10,7 @@ sections:
       title: |
         Freshwater ecology and fisheries management
       image:
-      filename: Spring-Surveys-May2023-5054198.jpg
+        filename: WalleyeInFyke.jpg
       text: |
         <br>
         
