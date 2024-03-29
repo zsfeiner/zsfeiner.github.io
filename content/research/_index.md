@@ -15,7 +15,6 @@ sections:
       background:
         image: 
           filename: SalineSeine.JPG
-          width: 2000px
           filters:
             brightness: 1
           parallax: false
