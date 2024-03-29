@@ -12,7 +12,7 @@ sections:
       image:
         filename: WalleyeInFyke.jpg
         width: 570px
-        caption: Rachel Benedict, WDNR
+        # caption: Rachel Benedict, WDNR
       text: |
         <br>
         
@@ -46,7 +46,9 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: coders.jpg
+          filename: IceFishingUpNorth.jpg
+          width: 2000px
+          height: 1333px
           filters:
             brightness: 1
           parallax: false
