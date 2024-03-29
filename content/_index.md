@@ -10,6 +10,7 @@ sections:
       title: |
         Freshwater ecology and fisheries management
       design:
+        columns: '1'
         background:
           image:
             filename: WalleyeInFyke.jpg
