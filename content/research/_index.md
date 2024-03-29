@@ -7,14 +7,15 @@ sections:
 
   - block: markdown
     content:
-      title:
+      title: Research
       subtitle: ''
       text:
     design:
       columns: '1'
       background:
         image: 
-          filename: coders.jpg
+          filename: NewSalineSeine.jpg
+          height: 1000px
           filters:
             brightness: 1
           parallax: false
