@@ -9,21 +9,9 @@ sections:
     content:
       title: |
         Freshwater ecology and fisheries management
-      design:
-        columns: '1'
-        background:
-          image:
-            filename: WalleyeInFyke.jpg
-            width: 2000px
-            filters:
-              brightness: 1
-            parallax: false
-            position: center
-            size: cover
-            text_color_light: true
-        spacing:
-          padding: ['20px', '0', '20px', '0']
-        css_class: fullscreen
+      image:
+        filename: WalleyeInFyke.jpg
+        width: 570px
       text: |
         <br>
         
