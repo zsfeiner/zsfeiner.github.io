@@ -15,7 +15,7 @@ sections:
       background:
         image: 
           filename: NewSalineSeine.jpg
-          height: 1000px
+          width: 2000px
           filters:
             brightness: 1
           parallax: false
