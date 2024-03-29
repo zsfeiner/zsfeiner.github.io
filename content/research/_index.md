@@ -4,6 +4,14 @@ date: 2024-03-25
 type: landing
 
 sections:
+  - block: hero
+    content:
+      title: |
+        Research
+      image:
+        filename: welcome.jpg
+      text:
+
   - block: collection
     id: research
     count: 0
