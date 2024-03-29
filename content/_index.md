@@ -16,6 +16,13 @@ sections:
         <br>
         
         We combine field research, experimental approaches, and quantitative modeling to understand how anthropogenic stressors influence freshwater fisheries, and develop new approaches to help important fisheries deal with a changing world.
+      primary_action:
+        text: See what we do →
+        url: ./research/
+      design:
+        background:
+          image:
+            filename: WalleyeInFyke.jpg
   
   - block: collection
     content:
