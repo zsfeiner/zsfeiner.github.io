@@ -1,19 +1,29 @@
 ---
 title: Research
 date: 2024-03-25
-
 type: landing
+
 sections:
-  - block: hero
+   - block: markdown
     content:
-      title: |
-        Research
-      image:
-        filename: welcome.jpg
-      text: |
-        <br>
-        
-        My research interests lie at the interface of basic and applied ecology.  I am broadly interested in how human interactions with freshwater ecosystems, including fishing, lake and fisheries management practices, and climate change, alter evolutionary and ecological processes in inland lakes, rivers, and the Great Lakes.  By understanding these responses, we can develop new approaches and practices for fisheries management in a rapidly changing landscape.
+      title:
+      subtitle: ''
+      text:
+    design:
+      columns: '1'
+      background:
+        image: 
+          filename: SalineSeine.jpg
+          width: 2000px
+          filters:
+            brightness: 1
+          parallax: false
+          position: center
+          size: cover
+          text_color_light: true
+      spacing:
+        padding: ['20px', '0', '20px', '0']
+      css_class: fullscreen
 
   - block: collection
     id: research
@@ -21,8 +31,6 @@ sections:
     content:
       title: Research
       text: The research we do lies at the interface of basic and applied ecology.  Broadly, we work to understand how human interactions with freshwater ecosystems, including fishing, lake and fisheries management practices, and climate change, alter evolutionary and ecological processes in inland lakes, rivers, and the Great Lakes.  By understanding these responses, we can develop new approaches and practices for fisheries management in a rapidly changing landscape.
-      image:
-        filename: welcome.jpg
       filters:
         folders: 
           - research
