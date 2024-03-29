@@ -47,6 +47,7 @@ sections:
         image: 
           filename: IceFishingUpNorthNotCropped.jpg
           width: 2000px
+          height: 1333px
           filters:
             brightness: 1
           parallax: false
