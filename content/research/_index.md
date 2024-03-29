@@ -9,7 +9,7 @@ sections:
       title: |
         Research
       image:
-        filename: /assets/media/SalineSeine.JPG
+        filename: media/SalineSeine.JPG
         width: 570px
       text:
 
