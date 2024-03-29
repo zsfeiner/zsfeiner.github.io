@@ -16,5 +16,5 @@ sections:
           - research
     design:
       view: showcase
-
+      
 ---
