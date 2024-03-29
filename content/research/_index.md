@@ -4,15 +4,6 @@ date: 2024-03-25
 type: landing
 
 sections:
-  - block: hero
-    content:
-      title: |
-        Research
-      image:
-        filename: media/SalineSeine.JPG
-        width: 570px
-      text:
-
   - block: collection
     id: research
     count: 0
