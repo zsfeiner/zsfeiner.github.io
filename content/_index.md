@@ -45,9 +45,8 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: IceFishingUpNorthNotCropped.jpg
+          filename: IceFishingUpNorth.jpg
           width: 2000px
-          height: 1333px
           filters:
             brightness: 1
           parallax: false
