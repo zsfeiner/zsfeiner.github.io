@@ -16,14 +16,11 @@ sections:
         <br>
         
         We combine field research, experimental approaches, and quantitative modeling to understand how anthropogenic stressors influence freshwater fisheries, and develop new approaches to help important fisheries deal with a changing world.
-      cta:
-        text: See what we do →
-        url: https://zsfeiner.github.io/research/
       design:
         background:
           image:
             filename: WalleyeInFyke.jpg
-            width: 2000px
+            width: 1000px
   
   - block: collection
     content:
