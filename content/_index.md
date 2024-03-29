@@ -12,6 +12,7 @@ sections:
       image:
         filename: WalleyeInFyke.jpg
         width: 570px
+        caption: Rachel Benedict, WDNR
       text: |
         <br>
         
