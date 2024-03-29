@@ -11,6 +11,7 @@ sections:
         Freshwater ecology and fisheries management
       image:
         filename: WalleyeInFyke.jpg
+        width: 570
       text: |
         <br>
         
