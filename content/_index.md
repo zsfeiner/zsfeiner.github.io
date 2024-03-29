@@ -20,6 +20,8 @@ sections:
           position: center
           size: cover
           text_color_light: true
+          height: 1333px
+          width: 2000px
       # image:
       #  filename: IceIndianLake.jpg
       text: |
