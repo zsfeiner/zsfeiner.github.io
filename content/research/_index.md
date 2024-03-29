@@ -4,26 +4,14 @@ date: 2024-03-25
 type: landing
 
 sections:
-   - block: markdown
+  - block: hero
     content:
-      title:
-      subtitle: ''
+      title: |
+        Research
+      image:
+        filename: assets/media/SalineSeine.jpg
+        width: 570px
       text:
-    design:
-      columns: '1'
-      background:
-        image: 
-          filename: SalineSeine.jpg
-          width: 2000px
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
 
   - block: collection
     id: research
