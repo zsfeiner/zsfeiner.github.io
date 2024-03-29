@@ -1,16 +1,22 @@
 ---
 title: Research
+
+# Listing view
+view: showcase
+
+# Optional banner image (relative to `assets/media/` folder).
+banner:
+  caption: ''
+  image: ''
+
+---
+
+title: Research
 date: 2024-03-25
 type: landing
 
 sections:
-  - block: hero
-    content:
-      title: |
-        Research
-      image:
-        filename: welcome.jpg
-      text:
+  
 
   - block: collection
     id: research
@@ -24,4 +30,3 @@ sections:
     design:
       view: showcase
       
----
