@@ -15,8 +15,8 @@ superuser: false
 
 # Role/position
 role: 
-  - title: Martha Barta
-  - title: Elizabeth Moe
+  - Martha Barta
+  - Elizabeth Moe
 
 # Organizations/Affiliations
 organizations:
