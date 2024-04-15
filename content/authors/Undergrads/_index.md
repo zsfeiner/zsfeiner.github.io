@@ -1,7 +1,7 @@
 ---
 # Display name
 title: ''
-subtitle: Martha Barta
+subtitle: ''
 
 # Full name (for SEO)
 first_name: ''
@@ -25,10 +25,10 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-# interests:
-#   - Artificial Intelligence
-#   - Computational Linguistics
-#   - Information Retrieval
+interests:
+ - Martha Barta
+ - Computational Linguistics
+ - Information Retrieval
 
 # education:
 #   courses:
