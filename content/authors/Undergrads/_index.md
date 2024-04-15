@@ -15,7 +15,7 @@ superuser: false
 
 # Role/position
 role:
-  - position: Test
+  - role: Test
 
 # Organizations/Affiliations
 organizations:
