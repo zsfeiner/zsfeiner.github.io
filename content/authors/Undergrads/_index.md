@@ -14,8 +14,8 @@ authors:
 superuser: false
 
 # Role/position
-role: 
-  - Martha Barta <p> Elizabeth Moe
+role:
+  - position: Test
 
 # Organizations/Affiliations
 organizations:
