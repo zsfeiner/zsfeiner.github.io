@@ -1,25 +1,25 @@
 ---
 # Display name
-title: Svyettlana (Lonnie) Parry
+title: Ellen Albright
 
 # Full name (for SEO)
-first_name: Lonnie
-last_name: Parry
+first_name: Ellen
+last_name: Albright
 
 # Username (this should match the folder name)
 authors:
-  - LonnieParry
+  - EllenAlbright
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Masters student
+role: Postdoctoral researcher (2023)
 
 # Organizations/Affiliations
 organizations:
-  - name: University of Wisconsin-Madison Center for Limnology
-    url: 'https://limnology.wisc.edu/'
+  - name: Discovery Farms Wisconsin
+    url: 'https://uwdiscoveryfarms.org/staff/albright-ellen/'
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -52,13 +52,16 @@ social:
 #  - icon: twitter
 #    icon_pack: fab
 #    link: https://twitter.com/GeorgeCushen
-#  - icon: google-scholar
-#    icon_pack: ai
-#    link: https://scholar.google.is/citations?user=NbVG6OAAAAAJ&hl=en
+  - icon: earth-americas
+    icon_pack: fas
+    link: https://limnoellen.weebly.com/
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=fIR7QLoAAAAJ&hl=en
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/AlbrightE
 
-#  - icon: github
-#    icon_pack: fab
-#    link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -71,5 +74,5 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Grad Students
+  - Alumni
 ---
