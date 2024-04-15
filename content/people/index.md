@@ -21,9 +21,5 @@ sections:
       show_interests: false
       show_role: true
       show_social: true
-  - block: markdown
-    content:
-      title: Undergraduate Researchers
-      subtitle: ''
-      text: Here are some undergrads I've worked with
+      
 ---
