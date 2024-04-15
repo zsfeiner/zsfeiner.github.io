@@ -1,6 +1,7 @@
 ---
 # Display name
 title: ''
+subtitle: Martha Barta
 
 # Full name (for SEO)
 first_name: ''
@@ -15,7 +16,6 @@ superuser: false
 
 # Role/position
 role:
-  - role: Test
 
 # Organizations/Affiliations
 organizations:
