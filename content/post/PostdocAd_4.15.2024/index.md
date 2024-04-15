@@ -1,6 +1,6 @@
 ---
 title: Postdoc Opportunity
-date: 2024-03-26
+date: 2024-04-15
 ---
 
 We are currently [seeking a postdoc](https://limnology.wisc.edu/employment/) to join a project to understand fish-plant relationships in lakes.
