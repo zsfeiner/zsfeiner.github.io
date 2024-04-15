@@ -25,13 +25,5 @@ sections:
     content:
       title: Undergraduate Researchers
       subtitle: ''
-      text: |
-        <br>
-
-Martha Barta (2021 - 2023), independent research project
-Elizabeth Moe (2022), Chase-Noland fellow
-Hannah Cave (2022), field technician
-Noah Sticha (2022), field technician
-Aria Klumb (2022), field technician
-Mackenzie Petty (2022), field technician
+      text: Here are some undergrads I've worked with
 ---
