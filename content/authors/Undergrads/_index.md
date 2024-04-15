@@ -22,13 +22,16 @@ organizations:
   - name: University of Wisconsin-Madison Center for Limnology
     url: 'https://limnology.wisc.edu/'
 
+students:
+  - Name
+
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-interests:
- - Martha Barta
- - Computational Linguistics
- - Information Retrieval
+# interests:
+#  - Martha Barta
+#  - Computational Linguistics
+#  - Information Retrieval
 
 # education:
 #   courses:
