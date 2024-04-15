@@ -7,7 +7,7 @@ type: landing
 sections:
   - block: people
     content:
-      title: Meet the Team
+      title: Meet the Lab
       # Choose which groups/teams of users to display.
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
       user_groups:
@@ -21,9 +21,11 @@ sections:
       show_interests: false
       show_role: true
       show_social: true
-
-
-## Undergraduate Researchers
+      
+  - block: markdown
+    content:
+      title: Undergraduate Researchers
+      text:
 
 Martha Barta (2021 - 2023): independent research project
 Elizabeth Moe (2022): Chase-Noland fellow
