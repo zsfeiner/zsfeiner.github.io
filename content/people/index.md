@@ -25,6 +25,7 @@ sections:
   - block: markdown
     content:
       title: Undergraduate researchers
-      text: *Martha Barta* (2021-2023), independent researcher
+      subtitle: ''
+      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
 
 ---
