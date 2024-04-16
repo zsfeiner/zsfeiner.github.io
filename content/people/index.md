@@ -26,6 +26,6 @@ sections:
     content:
       title: Undergraduate researchers
       subtitle: ''
-      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+      text: _Martha Barta_, independent researcher (2021-2023)
 
 ---
