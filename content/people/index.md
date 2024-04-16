@@ -22,10 +22,5 @@ sections:
       show_interests: false
       show_role: true
       show_social: true
-  - block: markdown
-    content:
-      title: Undergraduate researchers
-      subtitle: ''
-      text: _Martha Barta_, independent researcher (2021-2023)
 
 ---

@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Martha Barta
+title: Aria (Ree) Klumb
 
 # Full name (for SEO)
-first_name: Martha
-last_name: Barta
+first_name: Aria 
+last_name: Klumb
 
 # Username (this should match the folder name)
 authors:
-  - MarthaBarta
+  - AriaKlumb
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Independent researcher (2021-2023)
+role: Field technician (2022)
 
 # Organizations/Affiliations
 organizations:

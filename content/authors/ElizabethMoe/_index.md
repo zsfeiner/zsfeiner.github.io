@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Martha Barta
+title: Elizabeth Moe
 
 # Full name (for SEO)
-first_name: Martha
-last_name: Barta
+first_name: Elizabeth
+last_name: Moe
 
 # Username (this should match the folder name)
 authors:
-  - MarthaBarta
+  - ElizabethMoe
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Independent researcher (2021-2023)
+role: Chase-Noland Fellow, Field technician (2022)
 
 # Organizations/Affiliations
 organizations:

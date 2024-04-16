@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Martha Barta
+title: Lucas Fischer
 
 # Full name (for SEO)
-first_name: Martha
-last_name: Barta
+first_name: Lucas
+last_name: Fischer
 
 # Username (this should match the folder name)
 authors:
-  - MarthaBarta
+  - Lucas Fischer
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Independent researcher (2021-2023)
+role: Field team lead (2022)
 
 # Organizations/Affiliations
 organizations:
@@ -71,5 +71,5 @@ organizations:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Undergraduate Researchers
+  - Alumni
 ---
