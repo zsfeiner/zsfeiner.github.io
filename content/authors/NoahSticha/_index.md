@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Noah Sticha
+title: Noah Sticha\ Elizabeth Moe\ Aria Klumb
 
 # Full name (for SEO)
 first_name: Noah
