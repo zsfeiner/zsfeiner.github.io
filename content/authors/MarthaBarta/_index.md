@@ -1,21 +1,20 @@
 ---
 # Display name
-title: ''
-subtitle: ''
+title: Martha Barta
 
 # Full name (for SEO)
-first_name: ''
-last_name: ''
+first_name: Martha
+last_name: Barta
 
 # Username (this should match the folder name)
 authors:
-  - Undergrads
+  - MarthaBarta
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role:
+role: Independent research
 
 # Organizations/Affiliations
 organizations:
@@ -26,9 +25,9 @@ organizations:
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # interests:
-#  - Martha Barta
-#  - Computational Linguistics
-#  - Information Retrieval
+#   - Artificial Intelligence
+#   - Computational Linguistics
+#   - Information Retrieval
 
 # education:
 #   courses:
@@ -46,7 +45,7 @@ organizations:
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
+# social:
 #  - icon: envelope
 #    icon_pack: fas
 #    link: 'mailto:test@example.org'
