@@ -21,7 +21,16 @@ sections:
           image:
             filename: WalleyeInFyke.jpg
             width: 1000px
-  
+            
+  - block: markdown
+    content:
+      title:
+      subtitle:
+      text: |
+        {{% cta cta_link="./research/" cta_text="See what we do →" %}}
+    design:
+      columns: '1'
+      
   - block: collection
     content:
       title: Latest News
@@ -61,13 +70,4 @@ sections:
       spacing:
         padding: ['20px', '0', '20px', '0']
       css_class: fullscreen
-  
-  - block: markdown
-    content:
-      title:
-      subtitle:
-      text: |
-        {{% cta cta_link="./research/" cta_text="See what we do →" %}}
-    design:
-      columns: '1'
 ---
