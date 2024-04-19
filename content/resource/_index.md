@@ -36,12 +36,16 @@ sections:
         
         <iframe align="center" width="640" height="360" src="https://www.youtube.com/embed/mqXlEtDyzto" title="Panfish management in Wisconsin – Off the Record Podcast Ep. 14" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
         <br>
-        Climate change and walleye on Wisconsin Public Radio
-       !audio["Climate change"](https://www.wpr.org/shows/morning-show/janesvilles-new-convention-center-fewer-walleye-advice-for-life-amid-climate-change)
+        Lake responses to Wisconsin's changing winters <br>
+        
+        <iframe width="640" height="360" src="https://www.youtube.com/embed/h_ng6T18Ghc" title="December 7, 2023 - Quarterly Meeting - Lake Reponses to Wisconsin&#39;s Changing Winters" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
         
 
   - block: markdown
     content:
       title: Regional collaborations
-      text: The research we do lies at the interface of basic and applied ecology.  Broadly, we work to understand how human interactions with freshwater ecosystems, including fishing, lake and fisheries management practices, and climate change, alter evolutionary and ecological processes in inland lakes, rivers, and the Great Lakes.  By understanding these responses, we can develop new approaches and practices for fisheries management in a rapidly changing landscape.<br>
+      text: |
+        <br> 
+        [![WICCI logo](/assets/media/wicci-logo.png)](https://wicci.wisc.edu/)
 ---
