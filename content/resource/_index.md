@@ -13,7 +13,8 @@ sections:
   - block: markdown
     content:
       title: Public speaking
-      text: lalala
+      subtitle: We share our science with a wide range of audiences and settings.  Find a few recorded talks on everything from creel surveys to climate change below.  If you're interested in someone giving a talk to your group, please get in touch!
+      text: lala
 
   - block: markdown
     content:
