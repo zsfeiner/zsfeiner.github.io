@@ -37,10 +37,7 @@ sections:
         <iframe align="center" width="640" height="360" src="https://www.youtube.com/embed/mqXlEtDyzto" title="Panfish management in Wisconsin – Off the Record Podcast Ep. 14" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
         <br>
         Climate change and walleye on Wisconsin Public Radio
-        <audio controls>
-          <source src="C:/Users/feinezs/Documents/zsfeiner.github.io/assets/media/WPR_Walleye.mp3" type="audio/mp3">
-        </audio>
-        
+       !audio["Climate change"](https://www.wpr.org/shows/morning-show/janesvilles-new-convention-center-fewer-walleye-advice-for-life-amid-climate-change)
         
 
   - block: markdown
