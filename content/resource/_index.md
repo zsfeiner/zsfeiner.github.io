@@ -47,5 +47,5 @@ sections:
       title: Regional collaborations
       text: |
         <br> 
-        <img src="/assets/media/WICCILogo.jpg" width=500 url="https://wicci.wisc.edu/fisheries-working-group/">
+        ![Image alt](/assets/media/WICCILogo.jpg)
 ---
