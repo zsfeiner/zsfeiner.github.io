@@ -48,7 +48,7 @@ sections:
       subtitle: We participate in a number of local, regional, and national collaborations to share data and improve management of our aquatic resources. Check them out below!
       text: |
         <br> 
-        {{< figure src="C:/Users/feinezs/Documents/zsfeiner.github.io/assets/media/WICCILogo.jpg" width=787 title="" link="https://wicci.wisc.edu/fisheries-working-group" alt="WICCI logo" >}}
+        {{< figure src="https://github.com/zsfeiner/zsfeiner.github.io/blob/main/assets/media/WICCILogo.jpg" title="" link="https://wicci.wisc.edu/fisheries-working-group" alt="WICCI logo" >}}
         <br>
         [Wisconsin Initiative on Climate Change Impacts](https://wicci.wisc.edu/fisheries-working-group/) 
         <br>
