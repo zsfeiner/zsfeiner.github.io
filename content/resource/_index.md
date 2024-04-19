@@ -20,12 +20,10 @@ sections:
         
         <iframe width="640" height="360" src="https://www.youtube.com/embed/uMO0dYROWjo" title="&quot;Frozen Lakes&quot; 101: What&#39;s Under the Ice?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         <br>
-        
         Phenological whiplash in Midwest US fisheries <br>
 
         <iframe width="640" height="360" src="https://www.youtube.com/embed/qG0MBgxfIug" title="Phenological whiplash in Midwest US fisheries" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         <br>
-        
         Walleye phenology, recruitment, and climate change <br>
 
         <iframe src="https://player.vimeo.com/video/667924081?h=7b33d13570" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
