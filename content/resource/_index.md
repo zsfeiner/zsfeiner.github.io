@@ -13,7 +13,7 @@ sections:
   - block: markdown
     content:
       title: Public speaking
-      text: [Phenological whiplash in Midwest US fisheries](https://youtu.be/qG0MBgxfIug) <br>
+      text: [Phenological whiplash in Midwest US fisheries](https://youtu.be/qG0MBgxfIug)
 
   - block: markdown
     content:
