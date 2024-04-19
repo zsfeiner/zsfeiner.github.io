@@ -10,6 +10,7 @@ appearance:
   theme_night:
   font: native
   font_size: L
+  color: sky
 
 # SEO
 
@@ -18,8 +19,8 @@ marketing:
     site_type: Organization
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo research group theme powered by Wowchemy website builder.'
-    twitter: 'GetResearchDev'
+    description: 'The research group website for Zachary Feiner, fisheries research scientist with the Wisconsin Department of Natural Resources and UW-Madison Center for Limnology.'
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
