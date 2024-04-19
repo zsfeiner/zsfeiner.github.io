@@ -45,7 +45,11 @@ sections:
   - block: markdown
     content:
       title: Regional collaborations
+      subtitle: We participate in a number of local, regional, and national collaborations to share data and improve management of our aquatic resources.
       text: |
         <br> 
-        [Wisconsin Initiative on Climate Change Impacts](https://wicci.wisc.edu/fisheries-working-group/)
+        - [Wisconsin Initiative on Climate Change Impacts](https://wicci.wisc.edu/fisheries-working-group/)
+        - [Midwest Glacial Lakes Partnership](https://midwestglaciallakes.org/)
+        - [CreelCat](https://www.usgs.gov/programs/climate-adaptation-science-centers/science/us-inland-creel-and-angler-survey-catalog)
+        - [Water@UW](https://water.wisc.edu/)
 ---
