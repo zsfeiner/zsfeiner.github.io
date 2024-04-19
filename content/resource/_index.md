@@ -47,5 +47,5 @@ sections:
       title: Regional collaborations
       text: |
         <br> 
-        ![Image alt](/assets/media/WICCILogo.jpg)
+        ![](/assets/media/WICCILogo.jpg)
 ---
