@@ -47,5 +47,5 @@ sections:
       title: Regional collaborations
       text: |
         <br> 
-        ![](/assets/media/WICCILogo.jpg)
+        [Wisconsin Initiative on Climate Change Impacts](https://wicci.wisc.edu/fisheries-working-group/)
 ---
