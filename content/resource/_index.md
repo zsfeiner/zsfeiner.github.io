@@ -12,8 +12,7 @@ sections:
 
   - block: markdown
     content:
-      title: Recorded seminars
-      subtitle: We share our research at a range of professional and public meetings. Find a few research talks covering everything from creel surveys to climate change below.  If you're interested in having someone come give a talk to your group, please reach out!
+      title: Public speaking
       text: [Phenological whiplash in Midwest US fisheries](https://youtu.be/qG0MBgxfIug) <br>
 
   - block: markdown
