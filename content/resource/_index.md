@@ -18,12 +18,12 @@ sections:
         <br>
         Frozen Lakes 101: What's happening under the ice? <br>
         
-        <iframe width="640" height="360" src="https://www.youtube.com/embed/uMO0dYROWjo" title="&quot;Frozen Lakes&quot; 101: What&#39;s Under the Ice?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> <br>
+        <iframe width="640" height="360" src="https://www.youtube.com/embed/uMO0dYROWjo" title="&quot;Frozen Lakes&quot; 101: What&#39;s Under the Ice?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         <br>
         
         Phenological whiplash in Midwest US fisheries <br>
 
-        <iframe width="640" height="360" src="https://www.youtube.com/embed/qG0MBgxfIug" title="Phenological whiplash in Midwest US fisheries" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> <br>
+        <iframe width="640" height="360" src="https://www.youtube.com/embed/qG0MBgxfIug" title="Phenological whiplash in Midwest US fisheries" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         <br>
         
         Walleye phenology, recruitment, and climate change <br>
@@ -36,7 +36,7 @@ sections:
         <br>
         Panfish management in Wisconsin <br>
         
-        <iframe width="640" height="360" src="https://www.youtube.com/embed/mqXlEtDyzto" title="Panfish management in Wisconsin – Off the Record Podcast Ep. 14" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe align="center" width="640" height="360" src="https://www.youtube.com/embed/mqXlEtDyzto" title="Panfish management in Wisconsin – Off the Record Podcast Ep. 14" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         
 
   - block: markdown
