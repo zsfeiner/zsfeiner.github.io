@@ -16,8 +16,8 @@ sections:
       subtitle: We share our science with a wide range of audiences and settings.  Find a few recorded talks on everything from creel surveys to climate change below.  If you're interested in someone giving a talk to your group, please get in touch!
       text: |
         <br>
-        
-        We combine field research, experimental approaches, and quantitative modeling to understand how anthropogenic stressors influence freshwater fisheries, and develop new approaches to help important fisheries deal with a changing world.
+        [Frozen Lakes 101: What's happening under the ice?](https://www.youtube.com/watch?v=uMO0dYROWjo)
+        <iframe width="1250" height="703" src="https://www.youtube.com/embed/qG0MBgxfIug" title="Phenological whiplash in Midwest US fisheries" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
   - block: markdown
     content:
