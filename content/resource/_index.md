@@ -29,8 +29,12 @@ sections:
         Walleye phenology, recruitment, and climate change <br>
 
         <iframe src="https://player.vimeo.com/video/667924081?h=7b33d13570" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+        <br>
+        Creel World: Wisconsin <br>
 
         <iframe src="https://player.vimeo.com/video/413806404?h=e724691381" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+        <br>
+        Panfish management in Wisconsin <br>
         
         <iframe width="640" height="360" src="https://www.youtube.com/embed/mqXlEtDyzto" title="Panfish management in Wisconsin – Off the Record Podcast Ep. 14" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         
