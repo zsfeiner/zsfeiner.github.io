@@ -10,9 +10,9 @@ sections:
       title: Published data
       subtitle: Open data is critical for reproducible research and promoting scientific collaboration.  We have published many large fisheries datasets from the Great Lakes and inland temperate lakes.
       text: |
-        Koenigbauer, S.T., Z.S. Feiner, B. Dickinson, S. Shaw, Z. Almeida, M. DuFour, A. Gatch, C. Schraidt, and T.O. Hook. 2024. Data for: Egg size scales negatively with system size in a periodic fish species. Purdue University Research Repository. doi:10.4231/A420-R024. https://purr.purdue.edu/publications/4488/1. <br>
-        
+        Koenigbauer, S.T., Z.S. Feiner, B. Dickinson, S. Shaw, Z. Almeida, M. DuFour, A. Gatch, C. Schraidt, and T.O. Hook. 2024. Data for: Egg size scales negatively with system size in a periodic fish species. Purdue University Research Repository. doi:10.4231/A420-R024. https://purr.purdue.edu/publications/4488/1. 
         <br>
+        
         Feiner, Z.S., M. Barta, G. Sass, J. Reed, T. Cichosz, A. Shultz, and M. Luehring. 2023. Walleye spawning, ice phenology, and covariate data for Upper Midwestern Lakes: 1939-2019. Environmental Data Initiative. https://doi.org/10.6073/pasta/f7a55f08dfe2a9514067e5c633313ef4.
         <br>
         
@@ -66,7 +66,7 @@ sections:
       subtitle: We participate in a number of local, regional, and national collaborations to share data and improve management of our aquatic resources. Check them out below!
       text: |
         <br> 
-        {{< figure src="WICCILogo.jpg" title="" link="https://wicci.wisc.edu/fisheries-working-group" alt="WICCI logo" >}}
+        {{< figure src="WICCILogo.jpg" title="" link="https://wicci.wisc.edu/fisheries-working-group" alt="WICCI logo" width="100" >}}
         <br>
         [Wisconsin Initiative on Climate Change Impacts](https://wicci.wisc.edu/fisheries-working-group/) 
         <br>
