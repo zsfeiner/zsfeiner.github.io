@@ -8,7 +8,21 @@ sections:
   - block: markdown
     content:
       title: Published data
-      text: The research we do lies at the interface of basic and applied ecology.  Broadly, we work to understand how human interactions with freshwater ecosystems, including fishing, lake and fisheries management practices, and climate change, alter evolutionary and ecological processes in inland lakes, rivers, and the Great Lakes.  By understanding these responses, we can develop new approaches and practices for fisheries management in a rapidly changing landscape.<br>
+      text: |
+        <br>
+        The research we do lies at the interface of basic and applied ecology.  Broadly, we work to understand how human interactions with freshwater ecosystems, including fishing, lake and fisheries management practices, and climate change, alter evolutionary and ecological processes in inland lakes, rivers, and the Great Lakes.  By understanding these responses, we can develop new approaches and practices for fisheries management in a rapidly changing landscape.
+        <br>
+        Feiner, Z.S., M. Barta, G. Sass, J. Reed, T. Cichosz, A. Shultz, and M. Luehring. 2023. Walleye spawning, ice phenology, and covariate data for Upper Midwestern Lakes: 1939-2019 ver 1. Environmental Data Initiative. https://doi.org/10.6073/pasta/f7a55f08dfe2a9514067e5c633313ef4. (Accessed 2024-04-30).
+        <br>
+        Coulter, D. A.; Feiner, Z. S.; Coulter, A. A.; and Diebel, M. W., "Current and Predicted Future Environmental Conditions for 38 Wisconsin, USA rivers" (2022). NRM Departmental Data Sets. 5. https://openprairie.sdstate.edu/nrm_datasets/5
+        <br>
+        Foley, C. J.; Hook, T. O.; Feiner, Z. S.; Czesny, S. (2018). Trophic indicator data for fishes collected from nearshore Lake Michigan in 2010. Purdue University Research Repository. doi:10.4231/R7DJ5CW0
+        <br>
+        Foley, C. J.; Feiner, Z.; Hook, T. O. (2021). Dataset for Spatial Patterns in Dry Weight of Nearshore Lake Michigan Prey Fishes. Purdue University Research Repository. doi:10.4231/5R2C-EN42
+        <br>
+        Feiner, Z. S.; Stephen Chong; Carey Knight; Thomas Lauer; Michael Thomas; Jeffrey Tyson; Hook, T. O. (2015). Rapidly shifting maturation schedules following reducedcommercial harvest in a freshwater ﬁsh. (Version 2.0). Purdue University Research Repository. doi:10.4231/R7V69GJV
+        <br>
+        Koenigbauer, S. T.; Feiner, Z.; Dickinson, B.; Shaw, S.; Almeida, Z.; DuFour, M.; Gatch, A.; Schraidt, C.; Hook, T. O. (2024). Data for: Egg size scales negatively with system size in a periodic fish species. Purdue University Research Repository. doi:10.4231/A420-R024
 
   - block: markdown
     content:
