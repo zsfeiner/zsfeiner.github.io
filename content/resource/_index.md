@@ -66,16 +66,13 @@ sections:
       subtitle: We participate in a number of local, regional, and national collaborations to share data and improve management of our aquatic resources. Check them out below!
       text: |
         <br> 
-        {{< figure src="WICCILogo.jpg" title="" link="https://wicci.wisc.edu/fisheries-working-group" alt="WICCI logo" width="200" >}} {{< figure src="MGLPLogo_CMYK.png" title="" link="https://midwestglaciallakes.org/" alt="MGLP logo" width="200" >}}
-        <br>
-        [Wisconsin Initiative on Climate Change Impacts](https://wicci.wisc.edu/fisheries-working-group/) 
+        {{< figure src="WICCILogo.jpg" title="" link="https://wicci.wisc.edu/fisheries-working-group" alt="WICCI logo" width="200" >}} 
         <br>
         {{< figure src="MGLPLogo_CMYK.png" title="" link="https://midwestglaciallakes.org/" alt="MGLP logo" width="200" >}}
         <br>
-        [Midwest Glacial Lakes Partnership](https://midwestglaciallakes.org/) 
+        {{< figure src="CreelCat.png" title="" link="https://www.usgs.gov/programs/climate-adaptation-science-centers/science/us-inland-creel-and-angler-survey-catalog" alt="CreelCat logo" width="200" >}}
         <br>
-        [CreelCat](https://www.usgs.gov/programs/climate-adaptation-science-centers/science/us-inland-creel-and-angler-survey-catalog) 
+        {{< figure src="WateratUW.png" title="" link="https://water.wisc.edu/" alt="Water at UW logo" width="200" >}}
         <br>
-        [Water@UW](https://water.wisc.edu/)
-        [North Temperate Lakes Long-Term Ecological Research (NTL-LTER) Program](https://lter.limnology.wisc.edu/)
+        {{< figure src="NTL_logo.png" title="" link="https://lter.limnology.wisc.edu/" alt="NTL LTER logo" width="200" >}}
 ---
