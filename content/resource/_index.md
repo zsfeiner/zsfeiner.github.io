@@ -66,7 +66,8 @@ sections:
       subtitle: We participate in a number of local, regional, and national collaborations to share data and improve management of our aquatic resources. Check them out below!
       text: |
         <br>
-        {{< gallery album="collabs" >}}
+        ![](WICCILogo.jpg)
+        ![](CreelCat.png)
         
         {{< figure src="WICCILogo.jpg" title="" link="https://wicci.wisc.edu/fisheries-working-group" alt="WICCI logo" width="300" >}} 
         <br>
