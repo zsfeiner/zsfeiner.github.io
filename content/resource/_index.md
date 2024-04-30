@@ -70,6 +70,8 @@ sections:
         <br>
         [Wisconsin Initiative on Climate Change Impacts](https://wicci.wisc.edu/fisheries-working-group/) 
         <br>
+        {{< figure src="MGLPLogo_CMYK.png" title="" link="https://midwestglaciallakes.org/" alt="MGLP logo" width="200" >}}
+        <br>
         [Midwest Glacial Lakes Partnership](https://midwestglaciallakes.org/) 
         <br>
         [CreelCat](https://www.usgs.gov/programs/climate-adaptation-science-centers/science/us-inland-creel-and-angler-survey-catalog) 
