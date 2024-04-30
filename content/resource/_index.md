@@ -8,7 +8,9 @@ sections:
   - block: markdown
     content:
       title: Published data
-      text: The research we do lies at the interface of basic and applied ecology.  Broadly, we work to understand how human interactions with freshwater ecosystems, including fishing, lake and fisheries management practices, and climate change, alter evolutionary and ecological processes in inland lakes, rivers, and the Great Lakes.  By understanding these responses, we can develop new approaches and practices for fisheries management in a rapidly changing landscape.
+      text: |
+        <br>
+        The research we do lies at the interface of basic and applied ecology.  Broadly, we work to understand how human interactions with freshwater ecosystems, including fishing, lake and fisheries management practices, and climate change, alter evolutionary and ecological processes in inland lakes, rivers, and the Great Lakes.  By understanding these responses, we can develop new approaches and practices for fisheries management in a rapidly changing landscape.
         <br>
         
         Feiner, Z.S., M. Barta, G. Sass, J. Reed, T. Cichosz, A. Shultz, and M. Luehring. 2023. Walleye spawning, ice phenology, and covariate data for Upper Midwestern Lakes: 1939-2019 ver 1. Environmental Data Initiative. https://doi.org/10.6073/pasta/f7a55f08dfe2a9514067e5c633313ef4. (Accessed 2024-04-30).
