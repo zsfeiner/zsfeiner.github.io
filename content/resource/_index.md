@@ -66,13 +66,13 @@ sections:
       subtitle: We participate in a number of local, regional, and national collaborations to share data and improve management of our aquatic resources. Check them out below!
       text: |
         <br>
-        {{< figure src="WICCILogo.jpg" title="" link="https://wicci.wisc.edu/fisheries-working-group" alt="WICCI logo" width="400" >}} 
+        {{< figure src="WICCILogo.jpg" title="" link="https://wicci.wisc.edu/fisheries-working-group" alt="WICCI logo" width="300" >}} 
         <br>
-        {{< figure src="MGLPLogo_CMYK.png" title="" link="https://midwestglaciallakes.org/" alt="MGLP logo" width="400" >}}
+        {{< figure src="MGLPLogo_CMYK.png" title="" link="https://midwestglaciallakes.org/" alt="MGLP logo" width="300" >}}
         <br>
-        {{< figure src="CreelCat.png" title="" link="https://www.usgs.gov/programs/climate-adaptation-science-centers/science/us-inland-creel-and-angler-survey-catalog" alt="CreelCat logo" width="400" >}}
+        {{< figure src="CreelCat.png" title="" link="https://www.usgs.gov/programs/climate-adaptation-science-centers/science/us-inland-creel-and-angler-survey-catalog" alt="CreelCat logo" width="300" >}}
         <br>
-        {{< figure src="WateratUW.png" title="" link="https://water.wisc.edu/" alt="Water at UW logo" width="400" >}}
+        {{< figure src="WateratUW.png" title="" link="https://water.wisc.edu/" alt="Water at UW logo" width="300" >}}
         <br>
-        {{< figure src="NTL_logo.png" title="" link="https://lter.limnology.wisc.edu/" alt="NTL LTER logo" width="400" >}}
+        {{< figure src="NTL_logo.png" title="" link="https://lter.limnology.wisc.edu/" alt="NTL LTER logo" width="300" >}}
 ---
