@@ -69,6 +69,9 @@ sections:
         ![](WICCILogo.jpg)
         ![](CreelCat.png)
         
+        {{< figure src="WICCILogo.jpg" title="" link="https://wicci.wisc.edu/fisheries-working-group" alt="WICCI logo" width="300" >
+        < figure src="WICCILogo.jpg" title="" link="https://wicci.wisc.edu/fisheries-working-group" alt="WICCI logo" width="300" >}}
+        
         {{< figure src="WICCILogo.jpg" title="" link="https://wicci.wisc.edu/fisheries-working-group" alt="WICCI logo" width="300" >}} 
         <br>
         {{< figure src="MGLPLogo_CMYK.png" title="" link="https://midwestglaciallakes.org/" alt="MGLP logo" width="300" >}}
