@@ -13,7 +13,6 @@ sections:
         Koenigbauer, S.T., Z.S. Feiner, B. Dickinson, S. Shaw, Z. Almeida, M. DuFour, A. Gatch, C. Schraidt, and T.O. Hook. 2024. Data for: Egg size scales negatively with system size in a periodic fish species. Purdue University Research Repository. doi:10.4231/A420-R024. https://purr.purdue.edu/publications/4488/1. <br>
         
         <br>
-        
         Feiner, Z.S., M. Barta, G. Sass, J. Reed, T. Cichosz, A. Shultz, and M. Luehring. 2023. Walleye spawning, ice phenology, and covariate data for Upper Midwestern Lakes: 1939-2019. Environmental Data Initiative. https://doi.org/10.6073/pasta/f7a55f08dfe2a9514067e5c633313ef4.
         <br>
         
