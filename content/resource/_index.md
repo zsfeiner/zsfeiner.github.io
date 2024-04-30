@@ -66,7 +66,7 @@ sections:
       subtitle: We participate in a number of local, regional, and national collaborations to share data and improve management of our aquatic resources. Check them out below!
       text: |
         <br> 
-        {{< figure src="https://github.com/zsfeiner/zsfeiner.github.io/blob/main/assets/media/WICCILogo.jpg" title="" link="https://wicci.wisc.edu/fisheries-working-group" alt="WICCI logo" >}}
+        {{< figure src="WICCILogo.jpg" title="" link="https://wicci.wisc.edu/fisheries-working-group" alt="WICCI logo" >}}
         <br>
         [Wisconsin Initiative on Climate Change Impacts](https://wicci.wisc.edu/fisheries-working-group/) 
         <br>
@@ -75,4 +75,5 @@ sections:
         [CreelCat](https://www.usgs.gov/programs/climate-adaptation-science-centers/science/us-inland-creel-and-angler-survey-catalog) 
         <br>
         [Water@UW](https://water.wisc.edu/)
+        [North Temperate Lakes Long-Term Ecological Research (NTL-LTER) Program](https://lter.limnology.wisc.edu/)
 ---
