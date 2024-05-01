@@ -83,7 +83,7 @@ sections:
       text: |
         <br>
         
-        {{< gallery album="collabs" resize_options="500" >}}
+        {{< gallery album="collabs" >}}
 
         
         {{< figure src="WICCILogo.jpg" title="" link="https://wicci.wisc.edu/fisheries-working-group" alt="WICCI logo" width="250" align="center" >}} 
