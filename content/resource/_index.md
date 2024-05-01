@@ -25,8 +25,6 @@ sections:
     content:
       title: Published data
       subtitle: Open data is critical for reproducible research and promoting scientific collaboration.  We have published many large fisheries datasets from the Great Lakes and inland temperate lakes.
-      image: assets/media/MGLPWorkshop.jpg
-        width: "500px"
       text: |
         Koenigbauer, S.T., Z.S. Feiner, B. Dickinson, S. Shaw, Z. Almeida, M. DuFour, A. Gatch, C. Schraidt, and T.O. Hook. 2024. Data for: Egg size scales negatively with system size in a periodic fish species. Purdue University Research Repository. doi:10.4231/A420-R024. https://purr.purdue.edu/publications/4488/1. 
         <br>
