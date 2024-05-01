@@ -17,7 +17,7 @@ gallery_item:
     caption: https://water.wisc.edu/
   - album: collabs
     image: CreelCat.png
-    caption: https://www.usgs.gov/programs/climate-adaptation-science-centers/science/us-inland-creel-and-angler-survey-catalog
+    caption: USGS Creel Cat
 
 sections:
 
