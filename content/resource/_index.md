@@ -18,6 +18,10 @@ type: landing
 #   - album: collabs
 #     image: CreelCat.png
 #     caption: 'USGS Creel Cat'
+
+banner:
+  caption: 'Photo credit: Ellen Albright'
+  image: MGLPWorkshop.jpg
     
 sections:
   - block: markdown
