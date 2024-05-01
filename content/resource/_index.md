@@ -3,23 +3,6 @@ title: Resources
 date: 2024-03-25
 type: landing
 
-gallery_item:
-  - album: collabs
-    image: WICCILogo.jpg
-    caption: "https://wicci.wisc.edu/fisheries-working-group"
-  - album: collabs
-    image: MGLPLogo_CMYK.png
-    caption: "https://midwestglaciallakes.org/""
-  - album: collabs
-    image: NTL_logo.png
-    caption: "https://lter.limnology.wisc.edu/"
-  - album: collabs
-    image: WateratUW.png
-    caption: "https://water.wisc.edu/"
-  - album: collabs
-    image: CreelCat.png
-    caption: "https://www.usgs.gov/programs/climate-adaptation-science-centers/science/us-inland-creel-and-angler-survey-catalog""
-
 sections:
 
   - block: markdown
@@ -84,7 +67,7 @@ sections:
       text: |
         <br>
         
-        {{< gallery album="collabs" resize_options="250x250" >}}
+        {{< gallery album="collabs" resize_options="500px" >}}
 
         
         {{< figure src="WICCILogo.jpg" title="" link="https://wicci.wisc.edu/fisheries-working-group" alt="WICCI logo" width="250" align="center" >}} 
@@ -96,4 +79,22 @@ sections:
         {{< figure src="WateratUW.png" title="" link="https://water.wisc.edu/" alt="Water at UW logo" width="250" >}}
         <br>
         {{< figure src="NTL_logo.png" title="" link="https://lter.limnology.wisc.edu/" alt="NTL LTER logo" width="250" >}}
+
+
+gallery_item:
+  - album: collabs
+    image: WICCILogo.jpg
+    caption: "https://wicci.wisc.edu/fisheries-working-group"
+  - album: collabs
+    image: MGLPLogo_CMYK.png
+    caption: "https://midwestglaciallakes.org/""
+  - album: collabs
+    image: NTL_logo.png
+    caption: "https://lter.limnology.wisc.edu/"
+  - album: collabs
+    image: WateratUW.png
+    caption: "https://water.wisc.edu/"
+  - album: collabs
+    image: CreelCat.png
+    caption: "https://www.usgs.gov/programs/climate-adaptation-science-centers/science/us-inland-creel-and-angler-survey-catalog""
 ---
