@@ -83,8 +83,6 @@ sections:
       text: |
         <br>
         
-        {{< columns >}}
-        
         <center>{{< figure src="WICCILogo.jpg" caption="Wisconsin Initiative on Climate Change Impacts" link="https://wicci.wisc.edu/fisheries-working-group" alt="WICCI logo" width="400" align="center" >}}</center> 
         
         <br>
@@ -93,13 +91,9 @@ sections:
         <br>
         <center>{{< figure src="MGLPLogo_CMYK.png" caption="Midwest Glacial Lakes Partnership" link="https://midwestglaciallakes.org/" alt="MGLP logo" width="400" >}}</center>
         
-        {{< column >}}
-        
         <br>
         <center>{{< figure src="CreelCat.png" caption="US Inland Creel and Angler Survey Catalog" link="https://www.usgs.gov/programs/climate-adaptation-science-centers/science/us-inland-creel-and-angler-survey-catalog" alt="CreelCat logo" width="400" >}}</center>
         
         <br>
         <center>{{< figure src="WateratUW.png" caption="Water @ UW" link="https://water.wisc.edu/" alt="Water at UW logo" width="400" >}}</center>
-        
-        {{< endcolumns >}}
 ---
