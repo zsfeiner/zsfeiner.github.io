@@ -8,7 +8,7 @@ In a rapidly changing world, animals are constantly adapting. Human-induced sele
 <!--more-->
 
 Fisheries-induced evolution is rarely studied in inland waters.  We have been able to examine possible patterns of harvest-induced FIE in commercially-harvested yellow perch in the Great Lakes, shedding light on how and whether FIE played a role in the collapse of the Lake Michigan yellow perch fishery.  In addition, through a number of experiments and field studies, we've documented the strength of maternal effects on egg size, including how relationships between maternal size, environmental conditions like winter temperature, and maternal condition can influence egg quality with ramifications for population recruitment.  We continue our research by integrating genomic tools to begin to unravel the genetic underpinnings of phenotypic plasticity in life history.
-*Photo: Spawning yellow perch. Credit: Zach Feiner.*
+<span style="font-size:0.75em">*Photo: Spawning yellow perch. Credit: Zach Feiner.*</span>
 
 ### Relevant publications
 Wszola, L.S., Z.S. Feiner, C.J. Chizinski, J.B. Poletto, and J.P. Delong. 2022. [Fishing regulations, sexual dimorphism, and the life history of harvest](https://cdnsciencepub.com/doi/abs/10.1139/cjfas-2021-0248). Canadian Journal of Fisheries and Aquatic Sciences 79: 1590-1604. doi: 10.1139/cjfas-2021-0248.

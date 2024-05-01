@@ -8,7 +8,7 @@ Food web linkages determine the flow of energy through ecosystems.  Competition 
 <!--more-->
 
 Stable isotopes, diet content analysis, fatty acid analysis, and other tools have all been used to quantify trophic interactions among species and infer food web structure.  We've used all of these approaches in studies designed to understand the competitive and predatory interactions of invaders, from white perch in southeastern reservoirs to round goby in the Great Lakes, and found that often diet overlaps can vary considerably with space, time, and ontogeny.  Bringing in tools from community ecology to understand diet diversity in these species, we've also shown that individual-level variability can comprise a considerable amount of overall niche space for some species, and that the interpretation of some food web markers can be strongly influenced by species identity.  We continue to use these tools to understand food web ecology, including in new projects aimed at understanding match-mismatch dynamics in an increasingly unpredictable climate.
-*Image: A white bass (top) and white perch (bottom) from a North Carolina reservoir. Credit: Zach Feiner.*
+<span style="font-size:0.75em">*Photo: A white bass (top) and white perch (bottom) from a North Carolina reservoir. Credit: Zach Feiner.*</span>
 
 ### Relevant publications
 Evans, T.M., Z.S. Feiner, L.G. Rudstam, D. Mason, J. Watkins, E.D. Reavie, A.E. Scofield, L.E. Burlakova, A.Y. Karatayev, and W.G. Sprules. 2021. [Size spectra analysis of a decade of Laurentian Great Lakes data](https://cdnsciencepub.com/doi/full/10.1139/cjfas-2020-0144). Canadian Journal of Fisheries and Aquatic Sciences 79: 183-194.

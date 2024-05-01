@@ -21,4 +21,4 @@ Check out some of the links below:
 - ["Warm winter causing possible walleye decline" on WOAW TV News](https://www.waow.com/news/warm-winter-causing-possible-walleye-decline/article_6617387a-d816-11ee-b4f3-a3e1992823ee.html)
 - ["Warmer springs, variable ice-out dates are hurting walleye spawning" in the Twin Cities Pioneer Press](https://www.twincities.com/2024/03/02/warmer-springs-variable-ice-out-dates-are-hurting-walleye-spawning/)
 
-*Photo: Ice-off on a Wisconsin lake. Credit: Claire Gaber, WDNR.*
+<span style="font-size:0.75em">*Photo: Ice-off on a Wisconsin lake. Credit: Claire Gaber, WDNR.*</span>

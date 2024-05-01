@@ -10,7 +10,7 @@ sections:
       title: |
         Freshwater ecology and fisheries management
       image:
-        caption: Rachel Benedict, WDNR
+        caption: 'Photo credit: Rachel Benedict, WDNR'
         filename: WalleyeInFyke.jpg
         width: 570px
       text: |
@@ -64,6 +64,7 @@ sections:
         image: 
           filename: IceFishingUpNorth.jpg
           width: 2000px
+          caption: 'Photo credit: Zach Feiner'
           filters:
             brightness: 1
           parallax: false

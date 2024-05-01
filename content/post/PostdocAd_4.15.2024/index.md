@@ -12,4 +12,4 @@ The Center for Limnology (CFL) at the University of Wisconsin-Madison and the Un
 Successful candidates will leverage extensive ecological datasets to investigate macrophyte communities, including (1) modeling relationships between macrophyte communities and fisheries characteristics in lakes, (2) assessing fishery responses to changes in macrophyte habitats, and (3) developing tools to identify and prioritize habitat management strategies. This postdoc will also have the opportunity to interface with local resource managers, lake associations, and researchers with the Midwest Glacial Lakes Partnership, and create publicly available outreach and data visualization platforms (i.e., R shiny apps, online modules).
 Application Instructions: For questions or to apply, submit a cover letter, CV, and contact information for three references to Dr. Zach Feiner (zsfeiner@wisc.edu).  Application review starts 4/30/2024.
 
-*Photo: A bass among the plants. Credit: Ali Mikulyuk.*
+<span style="font-size:0.75em">*Photo: A bass among the plants. Credit: Ali Mikulyuk.*</span>
