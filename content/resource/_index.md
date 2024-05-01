@@ -30,7 +30,7 @@ sections:
       background:
         image: 
           filename: MGLPWorkshop.jpg
-          width: 2000px
+          width: 1000px
           caption: 'Photo credit: Ellen Albright'
           filters:
             brightness: 1
