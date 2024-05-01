@@ -3,6 +3,24 @@ title: Resources
 date: 2024-03-25
 type: landing
 
+gallery_item:
+  - album: collabs
+    image: WICCILogo.jpg
+    caption: https://wicci.wisc.edu/fisheries-working-group
+  - album: collabs
+    image: MGLPLogo_CMYK.png
+    caption: ''
+    url: https://midwestglaciallakes.org/
+  - album: collabs
+    image: WICCILogo.jpg
+    caption: https://wicci.wisc.edu/fisheries-working-group
+  - album: collabs
+    image: WICCILogo.jpg
+    caption: https://wicci.wisc.edu/fisheries-working-group
+  - album: collabs
+    image: WICCILogo.jpg
+    caption: https://wicci.wisc.edu/fisheries-working-group
+
 sections:
 
   - block: markdown
@@ -68,9 +86,7 @@ sections:
         <br>
         
         {{< gallery album="collabs" resize_options="250x250" >}}
-        
-        <a href="https://wicci.wisc.edu/fisheries-working-group"><img src="WICCILogo.jpg" /></a>
-        <a href="https://wicci.wisc.edu/fisheries-working-group"><img src="WICCILogo.jpg" /></a>
+
         
         {{< figure src="WICCILogo.jpg" title="" link="https://wicci.wisc.edu/fisheries-working-group" alt="WICCI logo" width="250" align="center" >}} 
         <br>
