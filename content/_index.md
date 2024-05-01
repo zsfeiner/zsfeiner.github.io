@@ -16,7 +16,7 @@ sections:
       text: |
         <br>
         
-        We combine field research, experimental approaches, and quantitative modeling to understand how anthropogenic stressors influence freshwater fisheries, and develop new approaches to help important fisheries deal with a changing world. 
+        We combine field research, experimental approaches, and quantitative modeling to understand how anthropogenic stressors influence freshwater fisheries, and develop new approaches to help important fisheries deal with a changing world. <br>
         *(Photo: Rachel Benedict, WDNR).*
       design:
         background:
