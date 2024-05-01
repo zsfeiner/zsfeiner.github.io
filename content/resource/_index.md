@@ -43,7 +43,6 @@ sections:
         
         Feiner, Z.S., S. Chong, C. Knight, T. Lauer, M. Thomas, J. Tyson, and T.O. Hook. 2015. Rapidly shifting maturation schedules following reduced commercial harvest in a freshwater ﬁsh. Version 2.0. Purdue University Research Repository. doi:10.4231/R7V69GJV. https://purr.purdue.edu/publications/1709/2.
 
-
   - block: markdown
     content:
       title: Public speaking
@@ -73,7 +72,22 @@ sections:
         Lake responses to Wisconsin's changing winters <br>
         
         <iframe width="640" height="360" src="https://www.youtube.com/embed/h_ng6T18Ghc" title="December 7, 2023 - Quarterly Meeting - Lake Reponses to Wisconsin&#39;s Changing Winters" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+    design:
+      columns: '1'
+      background:
+        image: 
+          filename: MGLPWorkshop.jpg
+          width: 2000px
+          caption: 'Photo credit: Ellen Albright'
+          filters:
+            brightness: 1
+          parallax: false
+          position: center
+          size: cover
+          text_color_light: true
+      spacing:
+        padding: ['20px', '0', '20px', '0']
+      css_class: fullscreen
         
 
   - block: markdown
