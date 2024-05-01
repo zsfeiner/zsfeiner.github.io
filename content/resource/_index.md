@@ -83,7 +83,7 @@ sections:
       text: |
         <br>
         
-        {{< figure src="WICCILogo.jpg" caption="Wisconsin Initiative on Climate Change Impacts" link="https://wicci.wisc.edu/fisheries-working-group" alt="WICCI logo" width="300" align="center" >}} Wisconsin Initiative on Climate Change Impacts <br>
+        <center>{{< figure src="WICCILogo.jpg" caption="Wisconsin Initiative on Climate Change Impacts" link="https://wicci.wisc.edu/fisheries-working-group" alt="WICCI logo" width="300" align="center" >}}</center> Wisconsin Initiative on Climate Change Impacts <br>
         
         <br>
         {{< figure src="MGLPLogo_CMYK.png" caption="Midwest Glacial Lakes Partnership" link="https://midwestglaciallakes.org/" alt="MGLP logo" width="300" >}} Midwest Glacial Lakes Partnership <br>
