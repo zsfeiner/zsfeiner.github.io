@@ -20,9 +20,9 @@ main:
   - name: Resources
     url: resource
     weight: 50
-  - name: Contact
-    url: contact
-    weight: 60
+ # - name: Contact
+  #  url: contact
+  #  weight: 60
   # - name: Climate change
   #   url: research/climate-change/
   #   weight: 10

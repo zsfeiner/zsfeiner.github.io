@@ -8,6 +8,7 @@ It is important to recognize that fish only represent half of the equation when 
 <!--more-->
 
 We have examined a number of emerging concerns in how fisheries, as social-ecological systems, are changing and potentially altering fish population dynamics.  Fishing technology, like forward-facing sonar, cameras, and other high tech gadgets, are often cited as fundamentally changing the interaction between anglers and fish.  However, our research, while still ongoing, has found a much more nuanced picture of how technology influences not just angler catch rates, but also their expectations and satisfaction with fishing trips.  We also continue to perform survey work and simulation modeling across to understand the composition and attitudes of different angler groups, like urban shore anglers versus boat anglers, and how these groups will respond to climate-driven changes in fish populations and fishing opportunities.
+<br>
 *Photo: A black crappie on an underwater camera. Credit: Max Wolter, WDNR.*
 
 ### Relevant publications
