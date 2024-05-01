@@ -69,6 +69,9 @@ sections:
         
         {{< gallery album="collabs" resize_options="250x250" >}}
         
+        <a href="https://wicci.wisc.edu/fisheries-working-group"><img src="WICCILogo.jpg" /></a>
+        <a href="https://wicci.wisc.edu/fisheries-working-group"><img src="WICCILogo.jpg" /></a>
+        
         {{< figure src="WICCILogo.jpg" title="" link="https://wicci.wisc.edu/fisheries-working-group" alt="WICCI logo" width="250" align="center" >}} 
         <br>
         {{< figure src="MGLPLogo_CMYK.png" title="" link="https://midwestglaciallakes.org/" alt="MGLP logo" width="250" >}}
