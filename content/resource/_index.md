@@ -2,22 +2,22 @@
 title: Resources
 date: 2024-03-25
 type: landing
-gallery_item:
-  - album: collabs
-    image: WICCILogo.jpg
-    caption: 'https://wicci.wisc.edu/fisheries-working-group'
-  - album: collabs
-    image: MGLPLogo_CMYK.png
-    caption: 'https://midwestglaciallakes.org/'
-  - album: collabs
-    image: NTL_logo.png
-    caption: 'https://lter.limnology.wisc.edu/'
-  - album: collabs
-    image: WateratUW.png
-    caption: 'https://water.wisc.edu/'
-  - album: collabs
-    image: CreelCat.png
-    caption: 'USGS Creel Cat'
+# gallery_item:
+#   - album: collabs
+#     image: WICCILogo.jpg
+#     caption: 'https://wicci.wisc.edu/fisheries-working-group'
+#   - album: collabs
+#     image: MGLPLogo_CMYK.png
+#     caption: 'https://midwestglaciallakes.org/'
+#   - album: collabs
+#     image: NTL_logo.png
+#     caption: 'https://lter.limnology.wisc.edu/'
+#   - album: collabs
+#     image: WateratUW.png
+#     caption: 'https://water.wisc.edu/'
+#   - album: collabs
+#     image: CreelCat.png
+#     caption: 'USGS Creel Cat'
     
 sections:
 
@@ -83,16 +83,13 @@ sections:
       text: |
         <br>
         
-        {{< gallery album="collabs" >}}
-
-        
-        {{< figure src="WICCILogo.jpg" title="" link="https://wicci.wisc.edu/fisheries-working-group" alt="WICCI logo" width="250" align="center" >}} 
+        {{< figure src="WICCILogo.jpg" title="" link="https://wicci.wisc.edu/fisheries-working-group" alt="WICCI logo" width="250" align="center" >}} Wisconsin Initiative on Climate Change Impacts
         <br>
-        {{< figure src="MGLPLogo_CMYK.png" title="" link="https://midwestglaciallakes.org/" alt="MGLP logo" width="250" >}}
+        {{< figure src="MGLPLogo_CMYK.png" title="" link="https://midwestglaciallakes.org/" alt="MGLP logo" width="250" >}} Midwest Glacial Lakes Partnership
         <br>
-        {{< figure src="CreelCat.png" title="" link="https://www.usgs.gov/programs/climate-adaptation-science-centers/science/us-inland-creel-and-angler-survey-catalog" alt="CreelCat logo" width="250" >}}
+        {{< figure src="CreelCat.png" title="" link="https://www.usgs.gov/programs/climate-adaptation-science-centers/science/us-inland-creel-and-angler-survey-catalog" alt="CreelCat logo" width="250" >}} USGS US Inland Creel and Angler Survey Catalog
         <br>
-        {{< figure src="WateratUW.png" title="" link="https://water.wisc.edu/" alt="Water at UW logo" width="250" >}}
+        {{< figure src="WateratUW.png" title="" link="https://water.wisc.edu/" alt="Water at UW logo" width="250" >}} Water @ UW
         <br>
-        {{< figure src="NTL_logo.png" title="" link="https://lter.limnology.wisc.edu/" alt="NTL LTER logo" width="250" >}}
+        {{< figure src="NTL_logo.png" title="" link="https://lter.limnology.wisc.edu/" alt="NTL LTER logo" width="250" >}} North Temperate Lakes Long-Term Ecological Research Program
 ---
