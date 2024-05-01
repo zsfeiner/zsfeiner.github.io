@@ -29,7 +29,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: MGLP Workshop.jpg
+          filename: MGLPWorkshop.jpg
           width: 2000px
           caption: 'Photo credit: Ellen Albright'
           filters:
