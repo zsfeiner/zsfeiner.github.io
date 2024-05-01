@@ -48,7 +48,7 @@ sections:
   - block: markdown
     content:
       title: Public speaking
-      subtitle: {{< figure src="MGLPWorkshop.jpg" alt="workshop" width="400" >}} We share our science with a wide range of audiences and settings.  Find a few recorded talks on everything from creel surveys to climate change below.  If you're interested in someone giving a talk to your group, please get in touch!
+      subtitle: We share our science with a wide range of audiences and settings.  Find a few recorded talks on everything from creel surveys to climate change below.  If you're interested in someone giving a talk to your group, please get in touch!
       text: |
         <br>
         Frozen Lakes 101: What's happening under the ice? <br>
@@ -96,4 +96,6 @@ sections:
         
         <br>
         <center>{{< figure src="WateratUW.png" caption="Water @ UW" link="https://water.wisc.edu/" alt="Water at UW logo" width="400" >}}</center>
+    design:
+      columns: '2'
 ---
