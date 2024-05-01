@@ -73,22 +73,11 @@ sections:
         
         <iframe width="640" height="360" src="https://www.youtube.com/embed/h_ng6T18Ghc" title="December 7, 2023 - Quarterly Meeting - Lake Reponses to Wisconsin&#39;s Changing Winters" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     design:
-      columns: '1'
-      background:
-        image: 
-          filename: MGLPWorkshop.jpg
-          width: 2000px
-          caption: 'Photo credit: Ellen Albright'
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
-        
+      image: 
+        filename: MGLPWorkshop.jpg
+        width: 500px
+        caption: 'Photo credit: Ellen Albright'
+
 
   - block: markdown
     content:
