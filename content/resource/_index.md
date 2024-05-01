@@ -5,20 +5,20 @@ type: landing
 gallery_item:
   - album: collabs
     image: WICCILogo.jpg
-    caption: https://wicci.wisc.edu/fisheries-working-group
+    caption: 'https://wicci.wisc.edu/fisheries-working-group'
   - album: collabs
     image: MGLPLogo_CMYK.png
-    caption: https://midwestglaciallakes.org/
+    caption: 'https://midwestglaciallakes.org/'
   - album: collabs
     image: NTL_logo.png
-    caption: https://lter.limnology.wisc.edu/
+    caption: 'https://lter.limnology.wisc.edu/'
   - album: collabs
     image: WateratUW.png
-    caption: https://water.wisc.edu/
+    caption: 'https://water.wisc.edu/'
   - album: collabs
     image: CreelCat.png
-    caption: USGS Creel Cat
-
+    caption: 'USGS Creel Cat'
+    
 sections:
 
   - block: markdown
