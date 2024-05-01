@@ -87,7 +87,7 @@ gallery_item:
     caption: "https://wicci.wisc.edu/fisheries-working-group"
   - album: collabs
     image: MGLPLogo_CMYK.png
-    caption: "https://midwestglaciallakes.org/""
+    caption: "https://midwestglaciallakes.org/"
   - album: collabs
     image: NTL_logo.png
     caption: "https://lter.limnology.wisc.edu/"
