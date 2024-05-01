@@ -6,6 +6,6 @@ view: citation
 
 # Optional banner image (relative to `assets/media/` folder).
 banner:
-  caption: ''
+  caption: 'Credit: Jim Breck'
   image: NewSalineSeine.jpg
 ---

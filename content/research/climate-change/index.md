@@ -8,6 +8,7 @@ Climate change is rapidly transforming freshwater ecosystems. We have used a ran
 <!--more-->
 
 Our research has shown a number of climate impacts on inland aquatic ecosystems. For instance, warming waters are reducing available habitat for important cold- and coolwater species. A particular research focus revolves around the study of phenology, or the timing of biological events. Our work has shown that spring ice-off and fish spawning phenology are becoming increasingly unpredictable, with deleterious effects on spring spawning species like walleye. Thus, increasingly variable ice phenology on lakes appears to alter the form and function of aquatic food webs, potentially causing more frequent and extreme mismatches between predators and prey.    Warmer winters may also reduce the reproductive capacity of coolwater fishes through influences on egg quality. Warmwater species and aquatic invasive species may experience increased habitat suitability under these changing conditions, portending significant changes to the fish communities present in many north-temperate lakes. To grapple with these changes, I have begun work to expand on the RAD (Resist-Accept-Direct) framework to develop forward thinking approaches to managing projected changes to the fisheries landscape.
+
 *Photo: Ice-off on Indian Lake, WI. Credit: Zach Feiner.*
 
 ### Relevant publications
