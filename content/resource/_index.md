@@ -22,28 +22,6 @@ type: landing
 sections:
   - block: markdown
     content:
-      title:
-      subtitle: ''
-      text:
-    design:
-      columns: '1'
-      background:
-        image: 
-          filename: MGLPWorkshop.jpg
-          width: 1000px
-          caption: 'Photo credit: Ellen Albright'
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
-      
-  - block: markdown
-    content:
       title: Published data
       subtitle: Open data is critical for reproducible research and promoting scientific collaboration.  We have published many large fisheries datasets from the Great Lakes and inland temperate lakes.
       text: |
@@ -63,6 +41,9 @@ sections:
         <br>
         
         Feiner, Z.S., S. Chong, C. Knight, T. Lauer, M. Thomas, J. Tyson, and T.O. Hook. 2015. Rapidly shifting maturation schedules following reduced commercial harvest in a freshwater ﬁsh. Version 2.0. Purdue University Research Repository. doi:10.4231/R7V69GJV. https://purr.purdue.edu/publications/1709/2.
+    design:
+      image: MGLPWorkshop.jpg
+      width: 400px
 
   - block: markdown
     content:
