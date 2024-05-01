@@ -19,10 +19,6 @@ type: landing
 #     image: CreelCat.png
 #     caption: 'USGS Creel Cat'
 
-banner:
-  caption: 'Photo credit: Ellen Albright'
-  image: MGLPWorkshop.jpg
-    
 sections:
   - block: markdown
     content:
@@ -52,7 +48,7 @@ sections:
   - block: markdown
     content:
       title: Public speaking
-      subtitle: We share our science with a wide range of audiences and settings.  Find a few recorded talks on everything from creel surveys to climate change below.  If you're interested in someone giving a talk to your group, please get in touch!
+      subtitle: {{< figure src="MGLPWorkshop.jpg" alt="workshop" width="400" >}} We share our science with a wide range of audiences and settings.  Find a few recorded talks on everything from creel surveys to climate change below.  If you're interested in someone giving a talk to your group, please get in touch!
       text: |
         <br>
         Frozen Lakes 101: What's happening under the ice? <br>
@@ -78,11 +74,6 @@ sections:
         Lake responses to Wisconsin's changing winters <br>
         
         <iframe width="640" height="360" src="https://www.youtube.com/embed/h_ng6T18Ghc" title="December 7, 2023 - Quarterly Meeting - Lake Reponses to Wisconsin&#39;s Changing Winters" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-    design:
-      image: 
-        filename: MGLPWorkshop.jpg
-        width: 500px
-        caption: 'Photo credit: Ellen Albright'
 
 
   - block: markdown
