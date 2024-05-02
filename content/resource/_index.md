@@ -20,25 +20,6 @@ type: landing
 #     caption: 'USGS Creel Cat'
 
 sections:
-  - block: markdown
-    content:
-      title: Resources
-      subtitle: ''
-      text:
-    design:
-      columns: '1'
-      image: 
-        filename: MGLPWorkshopThin.jpg
-        width: 200px
-        caption: 'Photo credit: Zach Feiner'
-        filters:
-          brightness: 1
-        parallax: false
-        position: center
-        size: cover
-        text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
 
   - block: markdown
     content:
