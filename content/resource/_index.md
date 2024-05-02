@@ -22,6 +22,27 @@ type: landing
 sections:
   - block: markdown
     content:
+      title:
+      subtitle: ''
+      text:
+    design:
+      columns: '1'
+      background:
+        image: 
+          filename: BabyPerch.jpg
+          width: 2000px
+          caption: 'Photo credit: Zach Feiner'
+          filters:
+            brightness: 1
+          parallax: false
+          position: center
+          size: cover
+          text_color_light: true
+      spacing:
+        padding: ['20px', '0', '20px', '0']
+
+  - block: markdown
+    content:
       title: Published data
       subtitle: Open data is critical for reproducible research and promoting scientific collaboration.  We have published many large fisheries datasets from the Great Lakes and inland temperate lakes.
       text: |
