@@ -31,7 +31,7 @@ sections:
       subtitle:
       text: |
         <br>
-        {{% cta cta_link="./research/" cta_text="See what we do →" cta_color="#C12F10" %}}
+        {{% cta cta_link="./research/" cta_text="See what we do →" cta_background=#C12F10 %}}
     design:
       columns: '1'
       background:
