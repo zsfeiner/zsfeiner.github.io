@@ -33,6 +33,20 @@ sections:
         {{% cta cta_link="./research/" cta_text="See what we do →" %}}
     design:
       columns: '1'
+      background:
+        image: 
+          filename: CFLPano.jpg
+          width: 2000px
+          caption: 'Photo credit: Zach Feiner'
+          filters:
+            brightness: 1
+          parallax: false
+          position: center
+          size: cover
+          text_color_light: true
+      spacing:
+        padding: ['20px', '0', '20px', '0']
+      css_class: fullscreen
       
   - block: collection
     content:
