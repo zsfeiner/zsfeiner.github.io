@@ -36,7 +36,8 @@ sections:
       background:
         image: 
           filename: CFLPano.jpg
-          width: 3000px
+          width: 2000px
+          height: 300px
           caption: 'Photo credit: Zach Feiner'
           filters:
             brightness: 1
