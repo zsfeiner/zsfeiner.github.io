@@ -30,14 +30,14 @@ sections:
       title:
       subtitle:
       text: |
-        {{% cta cta_link="./research/" cta_text="See what we do →" %}}
+        {{% cta cta_link="./research/" cta_text="See what we do →" background_color="#7e0315" %}}
     design:
       columns: '1'
       background:
         image: 
           filename: CFLPano.jpg
           width: 200px
-          height: 20px
+          height: 30px
           caption: 'Photo credit: Zach Feiner'
           filters:
             brightness: 1
