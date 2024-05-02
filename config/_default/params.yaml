@@ -16,9 +16,9 @@ appearance:
 
 marketing:
   seo:
-    site_type: ResearchOrganization
+    site_type: 'ResearchOrganization'
     local_business_type: ''
-    org_name: ''
+    org_name: 'Feiner Fisheries Ecology Lab'
     description: 'The research group website for Zachary Feiner, fisheries research scientist with the Wisconsin Department of Natural Resources and UW-Madison Center for Limnology.'
     twitter: ''
   analytics:
@@ -73,7 +73,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/zsfeiner/zsfeiner.github.io'
     content_dir: content
     branch: main
   avatar:
