@@ -30,7 +30,7 @@ sections:
       background:
         image: 
           filename: MGLPWorkshopThin.jpg
-          width: 2000px
+          width: 200px
           caption: 'Photo credit: Zach Feiner'
           filters:
             brightness: 1
