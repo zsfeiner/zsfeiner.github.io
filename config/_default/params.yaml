@@ -6,6 +6,7 @@
 # Appearance
 
 appearance:
+  mode: light
   theme_day:
   theme_night:
   font: native
