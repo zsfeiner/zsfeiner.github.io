@@ -30,7 +30,8 @@ sections:
       title:
       subtitle:
       text: |
-        {{% cta cta_link="./research/" cta_text="See what we do →" background_color="#7e0315" %}}
+        <br>
+        {{% cta cta_link="./research/" cta_text="See what we do →" color="#7e0315" %}}
     design:
       columns: '1'
       background:
