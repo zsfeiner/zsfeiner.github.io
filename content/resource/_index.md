@@ -30,8 +30,8 @@ sections:
       background:
         image: 
           filename: BabyPerch.jpg
-          width: 2000px
-          height: 300px
+          width: 1000px
+          height: 500px
           caption: 'Photo credit: Zach Feiner'
           filters:
             brightness: 1
