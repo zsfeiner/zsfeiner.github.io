@@ -29,7 +29,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: MGLPWorkshopThin.png
+          filename: MGLPWorkshopThin.jpg
           width: 2000px
           caption: 'Photo credit: Zach Feiner'
           filters:
