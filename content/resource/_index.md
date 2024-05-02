@@ -18,7 +18,11 @@ type: landing
 #   - album: collabs
 #     image: CreelCat.png
 #     caption: 'USGS Creel Cat'
-
+# Optional banner image (relative to `assets/media/` folder).
+banner:
+  caption: 'Photo credit: Jim Breck'
+  image: NewSalineSeine.jpg
+  
 sections:
 
   - block: markdown
