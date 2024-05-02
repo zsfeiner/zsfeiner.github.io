@@ -31,7 +31,6 @@ sections:
         image: 
           filename: BabyPerch.jpg
           width: 2000px
-          height: 1000px
           caption: 'Photo credit: Zach Feiner'
           filters:
             brightness: 1
@@ -41,6 +40,7 @@ sections:
           text_color_light: true
       spacing:
         padding: ['20px', '0', '20px', '0']
+      css_class: fullscreen
 
   - block: markdown
     content:
