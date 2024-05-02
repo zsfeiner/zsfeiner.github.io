@@ -10,13 +10,13 @@ appearance:
   theme_night:
   font: native
   font_size: L
-  color: cyan
+  color: sky
 
 # SEO
 
 marketing:
   seo:
-    site_type: Organization
+    site_type: ResearchOrganization
     local_business_type: ''
     org_name: ''
     description: 'The research group website for Zachary Feiner, fisheries research scientist with the Wisconsin Department of Natural Resources and UW-Madison Center for Limnology.'
