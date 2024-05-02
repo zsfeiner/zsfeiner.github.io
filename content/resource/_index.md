@@ -29,7 +29,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: BabyPerch.jpg
+          filename: ThermalFooterThin.png
           width: 2000px
           caption: 'Photo credit: Zach Feiner'
           filters:
