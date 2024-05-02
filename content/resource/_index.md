@@ -22,7 +22,7 @@ type: landing
 sections:
   - block: markdown
     content:
-      title:
+      title: Resources
       subtitle: ''
       text:
     design:
@@ -40,6 +40,7 @@ sections:
           text_color_light: true
       spacing:
         padding: ['20px', '0', '20px', '0']
+      css_class: fullscreen
 
   - block: markdown
     content:
