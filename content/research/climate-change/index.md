@@ -12,6 +12,8 @@ Our research has shown a number of climate impacts on inland aquatic ecosystems.
 <span style="font-size:0.75em">*Photo: Ice-off on Indian Lake, WI. Credit: Zach Feiner.*</span>
 
 ### Relevant publications
+Xu, L., Z.S. Feiner, P. Frater, G.J.A. Hansen, R. Ladwig, C.P. Paukert, M. Verhoeven, L. Wszola, and O.P. Jensen. 2024. [Asymmetric impacts of climate change on thermal habitat suitability for inland lake fishes](https://www.nature.com/articles/s41467-024-54533-2). Nature Communications. doi: 10.1038/s41467-024-54533-2.
+
 Barta, M., J.R. Reed, T.A. Cichosz, A.D. Shultz, M. Luehring, G.G. Sass, and Z.S. Feiner. 2024. [Lagging spawning and increasing phenological extremes jeopardize walleye (Sander vitreus) in north-temperate lakes](https://aslopubs.onlinelibrary.wiley.com/doi/abs/10.1002/lol2.10383). Limnology and Oceanography Letters. doi: 10.1002/lol2.10383.
 
 Solokas, M.A., Z.S. Feiner, R. Al-Chokachy, P.E. Budy, J.T. DeWeber, J. Sarvala, G.G. Sass, S.A. Tolentino, T.E. Walsworth, and O.P. Jensen. 2023. [Shrinking body size and climate warming: Many freshwater salmonids do not follow the rule](https://onlinelibrary.wiley.com/doi/abs/10.1111/gcb.16626). Global Change Biology 29: 2478-2492. doi: 10.1111/gcb.16626.
