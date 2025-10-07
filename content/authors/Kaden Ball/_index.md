@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Field technician (2025)
+role: TLS Undergrad Fellow, field technician (2025)
 
 # Organizations/Affiliations
 organizations:
