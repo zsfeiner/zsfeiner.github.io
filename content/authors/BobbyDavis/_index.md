@@ -14,12 +14,13 @@ authors:
 superuser: false
 
 # Role/position
-role: Postdoctoral researcher
+role: Postdoctoral researcher (2023-2025)
 
 # Organizations/Affiliations
 organizations:
-  - name: University of Wisconsin-Madison Center for Limnology
-    url: 'https://limnology.wisc.edu/'
+  - name: Young Harris College
+    url: 'https://catalog.yhc.edu/content.php?catoid=27&navoid=1031'
+
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -74,5 +75,5 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Post-docs
+  - Alumni
 ---

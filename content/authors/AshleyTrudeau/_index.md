@@ -18,8 +18,8 @@ role: Postdoctoral researcher
 
 # Organizations/Affiliations
 organizations:
-  - name: University of Wisconsin-Madison Center for Limnology
-    url: 'https://limnology.wisc.edu/'
+  - name: National Oceanic and Atomospheric Administration Sustainable Fisheries Division
+    url: 'https://www.fisheries.noaa.gov/contact/ashley-trudeau'
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
