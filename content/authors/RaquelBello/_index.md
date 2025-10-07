@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Undergraduate researcher (2024-)
+role: Undergraduate researcher
 
 # Organizations/Affiliations
 organizations:

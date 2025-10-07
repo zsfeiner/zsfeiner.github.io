@@ -18,7 +18,7 @@ role: Postdoctoral researcher
 
 # Organizations/Affiliations
 organizations:
-  - name: National Oceanic and Atomospheric Administration Sustainable Fisheries Division
+  - name: National Oceanic and Atmospheric Administration Sustainable Fisheries Division
     url: 'https://www.fisheries.noaa.gov/contact/ashley-trudeau'
 
 # Short bio (displayed in user profile at end of posts)
